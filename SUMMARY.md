@@ -7,3 +7,7 @@
 * [การเชื่อมอุปกรณ์](ez-studio/undefined.md)
 * [การจัดวางอุปกรณ์](ez-studio/undefined-1.md)
 
+---
+
+* [การติดตั้งโปรแกรม](undefined.md)
+
