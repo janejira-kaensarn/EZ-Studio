@@ -23,7 +23,3 @@ description: >-
 | EZ Controller | USB Hub | ไม่ได้อาศัยความเร็วสูง |
 | เมาส์ไร้สาย \(ตัวรับสัญญาณ\) | USB Hub | ไม่ได้อาศัยความเร็วสูง |
 
-### ​ <a id="undefined-2"></a>
-
-### ​ <a id="undefined-3"></a>
-
