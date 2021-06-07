@@ -1,19 +1,19 @@
 # Table of contents
 
 * [แนะนำชุดอุปกรณ์ CMU EZ Studio](README.md)
-* [การจัดวางอุปกรณ์](undefined-1-1.md)
+* [การจัดวางอุปกรณ์ CMU EZ Studio](undefined-1-1.md)
 * [การเชื่อมต่ออุปกรณ์ CMU EZ Studio](undefined-2.md)
 
 ## เทคนิคการออกแบบและบันทึกสื่อ <a id="undefined-1"></a>
 
 * [แนวคิดในการออกแบบสื่อ Online](undefined-1/online.md)
-* [เทคนิคการจัดองค์ประกอบของภาพ และ การจัดวางตำแหน่งอุปกรณ์ที่เหมาะสม](undefined-1/ez-studio.md)
+* [เทคนิคการจัดองค์ประกอบของภาพ](undefined-1/ez-studio.md)
 * [เทคนิคบันทึกสื่อการสอนโดยไม่ต้องตัดต่อ](undefined-1/undefined/README.md)
-  * [ด้วย NVIDIA Broadcast](undefined-1/undefined/nvidia-broadcast.md)
   * [ด้วย Power Point Recorder](undefined-1/undefined/power-point-recorder.md)
-  * [ด้วย Logitech Capture](undefined-1/undefined/logitech-capture-ez-studio-controller.md)
-  * [ด้วย OBS Studio](undefined-1/undefined/obs-studio.md)
   * [ด้วย MS Stream](undefined-1/undefined/ms-stream.md)
+  * [ด้วย Logitech Capture](undefined-1/undefined/logitech-capture-ez-studio-controller.md)
+  * [ด้วย NVIDIA Broadcast](undefined-1/undefined/nvidia-broadcast.md)
+  * [ด้วย OBS Studio](undefined-1/undefined/obs-studio.md)
 
 ## คู่มือการใช้งานชุดอุปกรณ์ CMU EZ Studio <a id="cmu-ez-studio-1"></a>
 
