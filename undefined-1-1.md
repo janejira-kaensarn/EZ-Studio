@@ -10,19 +10,17 @@ description: >-
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MacQbJEhin4rokH3Cup%2F-Maf2lAlxOC1MJttqdqh%2F-Maf3Kml-O4WNHv0e8gJ%2Fez-studio-animation-800.gif?alt=media&token=8963ea3b-e567-4ba6-a730-2f74e17d5719)
 
-การจัดวางตำแหน่งชุดอุปกรณ์
+          การจัดวางตำแหน่งชุดอุปกรณ์ที่แนะนำ จอแสดงผลที่ 2
 
-## ⭐ แนะนำการติดตั้งและการจัดวางตำแหน่งอุปกรณ์ CMU EZ Studio & เทคนิคการจัดองค์ประกอบภาพ
-
-{% embed url="https://www.youtube.com/watch?v=dT0IogTDqxk" %}
-
-## ขาจับกล้อง Webcam <a id="webcam"></a>
+## ขาจับกล้อง Webcam และ การจัดมุมของตัวกล้อง Webcam <a id="webcam"></a>
 
 เนื่องจากมุมภาพที่ดีจะได้จากกล้องที่อยู่ในระดับสายตา หรือสูงกว่าระดับสายตาเล็กน้อย ดังนั้นจึงแนะนำให้ใช้ขาจับร่วมกับกล้อง Webcam โดยวางไว้ด้านหลังจอภาพ เพื่อให้สามารถขยับขึ้นลงได้โดยง่าย
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MacQbJEhin4rokH3Cup%2F-Maf2lAlxOC1MJttqdqh%2F-Maf4sC9m4n6-jDKIniH%2Fimage.png?alt=media&token=6deafcae-0ee5-4b75-be72-c58eb72bbe38)
 
 แสดงการใช้ขาจับกับกล้อง Webcam เพื่อให้ขยับขึ้นลงได้โดยง่าย
+
+![](.gitbook/assets/image%20%2881%29.png)
 
 ## ไมโครโฟน <a id="undefined"></a>
 
@@ -51,4 +49,8 @@ description: >-
 ⭐ **แนะนำให้วางไว้ด้านหน้าจอภาพ บริเวณกลางโต๊ะ เพื่อให้สามารถกดใช้งานได้ง่าย**
 
           เนื่องจากปุ่มของ EZ Controller มีเสียงดังเวลากด ซึ่งจะรบกวนการบันทึกสื่อของท่านได้ ดังนั้น**ควรใช้ระบบตัดเสียงรบกวนคู่กันเสมอ** โดยแนะนำให้ใช้โปรแกรม nVidia Broadcast
+
+
+
+{% embed url="https://www.youtube.com/watch?v=dT0IogTDqxk" %}
 
