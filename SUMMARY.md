@@ -1,6 +1,8 @@
 # Table of contents
 
 * [แนะนำชุดอุปกรณ์ CMU EZ Studio](README.md)
+* [การจัดวางอุปกรณ์](undefined-1-1.md)
+* [การเชื่อมอุปกรณ์](undefined-2.md)
 
 ## เทคนิคการออกแบบและบันทึกสื่อ <a id="undefined-1"></a>
 
@@ -27,5 +29,6 @@
 
 ## การติดตั้งที่จำเป็น
 
+* [ดาวน์โหลดและติดตั้งโปรแกรม](undefined/undefined-3.md)
 * [การติดตั้งโปรแกรมที่จำเป็น](undefined/software.md)
 
