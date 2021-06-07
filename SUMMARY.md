@@ -2,7 +2,7 @@
 
 * [แนะนำชุดอุปกรณ์ CMU EZ Studio](README.md)
 * [การจัดวางอุปกรณ์](undefined-1-1.md)
-* [การเชื่อมอุปกรณ์](undefined-2.md)
+* [การเชื่อมต่ออุปกรณ์ CMU EZ Studio](undefined-2.md)
 
 ## เทคนิคการออกแบบและบันทึกสื่อ <a id="undefined-1"></a>
 
