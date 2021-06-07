@@ -1,6 +1,6 @@
-# ดาวน์โหลดและติดตั้งโปรแกรม
+# ดาวน์โหลดและติดตั้งโปรแกรมบันทึกสื่อ
 
-## โปรแกรมบันทึกสื่อ <a id="undefined"></a>
+## โปรแกรมบันทึกสื่อ  <a id="undefined"></a>
 
 TLIC ได้ออกแบบการติดตั้งชุดโปรแกรมไว้สำหรับการบันทึกสื่อไว้ดังรายการต่อไปนี้ โดยแนะนำให้ติดตั้งตามลำดับ
 
@@ -14,7 +14,7 @@ TLIC ได้ออกแบบการติดตั้งชุดโปร
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">1.nVidia Broadcast</td>
+      <td style="text-align:left">1. nVidia Broadcast</td>
       <td style="text-align:left">&#x200B;<a href="https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/">Download</a>&#x200B;</td>
       <td
       style="text-align:left">&#xE43;&#xE0A;&#xE49;&#xE04;&#xE27;&#xE32;&#xE21;&#xE2A;&#xE32;&#xE21;&#xE32;&#xE23;&#xE16;&#xE17;&#xE32;&#xE07;
@@ -63,11 +63,6 @@ TLIC ได้ออกแบบการติดตั้งชุดโปร
           &#xE42;&#xE14;&#xE22;&#xE28;&#xE36;&#xE01;&#xE29;&#xE32;&#xE44;&#xE14;&#xE49;&#xE08;&#xE32;&#xE01;&#xE17;&#xE35;&#xE48;&#xE19;&#xE35;&#xE48;</p>
         </td>
     </tr>
-    <tr>
-      <td style="text-align:left">&#x200B;</td>
-      <td style="text-align:left">&#x200B;</td>
-      <td style="text-align:left">&#x200B;</td>
-    </tr>
   </tbody>
 </table>
 
@@ -85,7 +80,8 @@ TLIC ได้ออกแบบการติดตั้งชุดโปร
     <tr>
       <td style="text-align:left">&#xE20;&#xE32;&#xE1E;&#xE1E;&#xE37;&#xE49;&#xE19;&#xE2B;&#xE25;&#xE31;&#xE07;&#xE41;&#xE25;&#xE30;&#xE2A;&#xE31;&#xE0D;&#xE25;&#xE31;&#xE01;&#xE29;&#xE13;&#xE4C;&#xE21;&#xE2B;&#xE32;&#xE27;&#xE34;&#xE17;&#xE22;&#xE32;&#xE25;&#xE31;&#xE22;</td>
       <td
-      style="text-align:left">Download</td>
+      style="text-align:left"><a href="https://o365cmu-my.sharepoint.com/personal/arnan_s_cmu_ac_th1/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings%2Fobs%2Dpics%2Ezip&amp;parent=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings&amp;originalPath=aHR0cHM6Ly9vMzY1Y211LW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2FybmFuX3NfY211X2FjX3RoMS9FY3Y2cG4yZExIbE9wQXJsQWYtMXJCY0JJc3FFVXJ6YklRZ2VtWW5VdDN3OU9nP3J0aW1lPTB3VTBRcFlwMlVn">Download</a>
+        </td>
         <td style="text-align:left">
           <p>&#xE20;&#xE32;&#xE1E;&#xE1E;&#xE37;&#xE49;&#xE19;&#xE10;&#xE32;&#xE19;&#xE17;&#xE35;&#xE48;&#xE23;&#xE27;&#xE1A;&#xE23;&#xE27;&#xE21;&#xE44;&#xE27;&#xE49;&#xE40;&#xE1E;&#xE37;&#xE48;&#xE2D;&#xE04;&#xE27;&#xE32;&#xE21;&#xE2A;&#xE30;&#xE14;&#xE27;&#xE01;
             &#xE1B;&#xE23;&#xE30;&#xE01;&#xE2D;&#xE1A;&#xE44;&#xE1B;&#xE14;&#xE49;&#xE27;&#xE22;&#xE2A;&#xE31;&#xE0D;&#xE25;&#xE31;&#xE01;&#xE29;&#xE13;&#xE4C;&#xE21;&#xE2B;&#xE32;&#xE27;&#xE34;&#xE17;&#xE22;&#xE32;&#xE25;&#xE31;&#xE22;&#xE40;&#xE0A;&#xE35;&#xE22;&#xE07;&#xE43;&#xE2B;&#xE21;&#xE48;
@@ -99,7 +95,8 @@ TLIC ได้ออกแบบการติดตั้งชุดโปร
     </tr>
     <tr>
       <td style="text-align:left">OBS Scene Collection</td>
-      <td style="text-align:left">Download</td>
+      <td style="text-align:left"><a href="https://o365cmu-my.sharepoint.com/personal/arnan_s_cmu_ac_th1/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings%2FTLIC%5FEZ%5FStudio%2Ejson&amp;parent=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings&amp;originalPath=aHR0cHM6Ly9vMzY1Y211LW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2FybmFuX3NfY211X2FjX3RoMS9FZWJhM21lTGJONUJwX3NTeWtzRGdmSUJhb19kWWJsS01IVkVYVG5MUVdnZi1BP3J0aW1lPTFIeXVTcFlwMlVn">Download</a>
+      </td>
       <td style="text-align:left">Scene &#xE2A;&#xE33;&#xE40;&#xE23;&#xE47;&#xE08;&#xE23;&#xE39;&#xE1B;&#xE2A;&#xE33;&#xE2B;&#xE23;&#xE31;&#xE1A;
         OBS &#xE43;&#xE19;&#xE0A;&#xE38;&#xE14;&#xE2A;&#xE32;&#xE21;&#xE32;&#xE23;&#xE16;&#xE40;&#xE25;&#xE37;&#xE2D;&#xE01;&#xE41;&#xE2A;&#xE14;&#xE07;
         &#xE1C;&#xE39;&#xE49;&#xE1E;&#xE39;&#xE14;, &#xE2A;&#xE37;&#xE48;&#xE2D;&#xE19;&#xE33;&#xE40;&#xE2A;&#xE19;&#xE2D;,
@@ -110,7 +107,8 @@ TLIC ได้ออกแบบการติดตั้งชุดโปร
     </tr>
     <tr>
       <td style="text-align:left">OBS Profile</td>
-      <td style="text-align:left">Download</td>
+      <td style="text-align:left"><a href="https://o365cmu-my.sharepoint.com/personal/arnan_s_cmu_ac_th1/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings%2FEZ%5FStudio%5FProfile%2Ezip&amp;parent=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings&amp;originalPath=aHR0cHM6Ly9vMzY1Y211LW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2FybmFuX3NfY211X2FjX3RoMS9FYlh2NFlpOUlzMVBvMzlyT2E1TWVTNEIwS2pQX2VLZ01vRVZtWGxudDNtZ2N3P3J0aW1lPUlIMTRVNVlwMlVn">Download</a>
+      </td>
       <td style="text-align:left">
         <p>Profile &#xE17;&#xE35;&#xE48;&#xE15;&#xE31;&#xE49;&#xE07;&#xE04;&#xE48;&#xE32;&#xE04;&#xE35;&#xE22;&#xE4C;&#xE25;&#xE31;&#xE14;&#xE44;&#xE27;&#xE49;&#xE40;&#xE1E;&#xE37;&#xE48;&#xE2D;&#xE43;&#xE0A;&#xE49;&#xE07;&#xE32;&#xE19;&#xE01;&#xE25;&#xE48;&#xE2D;&#xE07;
           EZ Controller &#xE01;&#xE31;&#xE1A; Scene Collection &#xE44;&#xE14;&#xE49;&#xE42;&#xE14;&#xE22;&#xE07;&#xE48;&#xE32;&#xE22;
@@ -124,18 +122,16 @@ TLIC ได้ออกแบบการติดตั้งชุดโปร
     <tr>
       <td style="text-align:left">&#xE42;&#xE1B;&#xE2A;&#xE40;&#xE15;&#xE2D;&#xE23;&#xE4C;&#xE41;&#xE2A;&#xE14;&#xE07;&#xE04;&#xE35;&#xE22;&#xE4C;&#xE25;&#xE31;&#xE14;</td>
       <td
-      style="text-align:left">PDF</td>
-        <td style="text-align:left">
-          <p>&#xE20;&#xE32;&#xE1E;&#xE41;&#xE2A;&#xE14;&#xE07;&#xE1C;&#xE31;&#xE07;&#xE41;&#xE25;&#xE30;&#xE2B;&#xE19;&#xE49;&#xE32;&#xE17;&#xE35;&#xE48;&#xE02;&#xE2D;&#xE07;&#xE1B;&#xE48;&#xE38;&#xE21;
-            EZ Controller &#xE17;&#xE35;&#xE48;&#xE43;&#xE0A;&#xE49;&#xE23;&#xE48;&#xE27;&#xE21;&#xE01;&#xE31;&#xE1A;
-            Profile &#xE02;&#xE49;&#xE32;&#xE07;&#xE15;&#xE49;&#xE19;</p>
-          <p>&#x200B;</p>
-        </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">&#x200B;</td>
-      <td style="text-align:left">&#x200B;</td>
-      <td style="text-align:left">&#x200B;</td>
+      style="text-align:left"><a href="https://o365cmu-my.sharepoint.com/personal/arnan_s_cmu_ac_th1/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings%2FEz%20Controller%20Key%20Mappings%2Epdf&amp;parent=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings&amp;originalPath=aHR0cHM6Ly9vMzY1Y211LW15LnNoYXJlcG9pbnQuY29tLzpiOi9nL3BlcnNvbmFsL2FybmFuX3NfY211X2FjX3RoMS9FWElMZlVvXzB0Qkx2LWNhZG5GNURvRUJib2VhSVNLTkNoNUNqOHZsWXpydFZBP3J0aW1lPUJMUnhYSllwMlVn">PDF</a>,
+        <a
+        href="https://o365cmu-my.sharepoint.com/personal/arnan_s_cmu_ac_th1/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings%2Fez%20controller%20key%20mappings%2Epng&amp;parent=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings&amp;originalPath=aHR0cHM6Ly9vMzY1Y211LW15LnNoYXJlcG9pbnQuY29tLzppOi9nL3BlcnNvbmFsL2FybmFuX3NfY211X2FjX3RoMS9FZHpzWDVmX2ptUk1oTkV3VnRoOG1Zd0JSTWFiNUdVSktkSy02MUxSQWkyYTl3P3J0aW1lPXFMNDBaSllwMlVn">PNG</a>
+          </td>
+          <td style="text-align:left">
+            <p>&#xE20;&#xE32;&#xE1E;&#xE41;&#xE2A;&#xE14;&#xE07;&#xE1C;&#xE31;&#xE07;&#xE41;&#xE25;&#xE30;&#xE2B;&#xE19;&#xE49;&#xE32;&#xE17;&#xE35;&#xE48;&#xE02;&#xE2D;&#xE07;&#xE1B;&#xE48;&#xE38;&#xE21;
+              EZ Controller &#xE17;&#xE35;&#xE48;&#xE43;&#xE0A;&#xE49;&#xE23;&#xE48;&#xE27;&#xE21;&#xE01;&#xE31;&#xE1A;
+              Profile &#xE02;&#xE49;&#xE32;&#xE07;&#xE15;&#xE49;&#xE19;</p>
+            <p>&#x200B;</p>
+          </td>
     </tr>
   </tbody>
 </table>

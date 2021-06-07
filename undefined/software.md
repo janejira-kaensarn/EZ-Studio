@@ -1,4 +1,10 @@
-# การติดตั้งโปรแกรมที่จำเป็น
+---
+description: >-
+  โดยแบ่งเป็น Version ใหม่ ได้แก่ EZ STUDIO Controller Version 3.0 และ Version
+  เก่า ได้แก่ EZ STUDIO Controller Version 1.0 และ 2.0
+---
+
+# การติดตั้งโปรแกรมสำหรับเครื่อง EZ Studio
 
 ## **โปรแกรมสำหรับเครื่อง EZ STUDIO Controller Version 3.0**       
 
@@ -8,21 +14,8 @@
 
 ## **โปรแกรมสำหรับเครื่อง EZ STUDIO Controller Version 1.0 และ 2.0**
 
-### **Logitech Capture** 
-
-ช่วยให้การสร้างคอนเทนต์ด้วยเว็บแคมที่เร็ว และใช้งานง่าย โดยใช้ร่วมกับกล้อง Webcam Logitech C922
-
-**สามารถดาวน์โหลดได้ที่นี่ :** [https://www.logitech.com/th-th/product/capture](https://www.logitech.com/th-th/product/capture)
-
-![Logitech Capture](../.gitbook/assets/image%20%28121%29.png)
-
-### **AntiMicro** 
-
-โปรแกรม **Antimicro** เป็นโปรแกรมสำหรับการจำลองปุ่มกด ****ซึ่งจำเป็นสำหรับการใช้งานร่วมกับ Logitech Capture และ CMU EZ Controller 
-
-**สามารถดาวน์โหลดได้ที่นี่ :** [https://sourceforge.net/projects/antimicro.mirror/](https://sourceforge.net/projects/antimicro.mirror/) 
-
-![AntiMicro](../.gitbook/assets/image%20%2844%29.png)
-
-
+| **โปรแกรม** | Download | **คำอธิบาย** |
+| :--- | :--- | :--- |
+| 1.Logitech Capture  | ​[Download](https://www.logitech.com/th-th/product/capture)​ | ช่วยให้การสร้างคอนเทนต์ด้วยเว็บแคมที่เร็ว และใช้งานง่าย โดยใช้ร่วมกับกล้อง Webcam Logitech C922 |
+| 2.AntiMicro **** | ​[Download​](https://sourceforge.net/projects/antimicro.mirror/%20) | โปรแกรมสำหรับการจำลองปุ่มกด ****ซึ่งจำเป็นสำหรับการใช้งานร่วมกับ Logitech Capture และ CMU EZ Controller  |
 

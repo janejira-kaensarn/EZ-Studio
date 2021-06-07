@@ -23,6 +23,8 @@ Video preview
 
           ทำการติดตั้งโปรแรกมเป็นลำดับแรก และเปิดใช้งานการตัดภาพพื้นหลังและตัดเสียงรบกวนในโปรแกรมให้เรียบร้อย โดยเปิดใช้ Effect "**Background removal**" สำหรับกล้อง และ "**Noise Removal"** สำหรับ Microphone
 
+
+
 ![](https://gblobscdn.gitbook.com/assets%2F-MacQbJEhin4rokH3Cup%2F-Mb11GznRqeEU6YNCfJ6%2F-Mb196R_9s-ua9mG_y8R%2Fimage.png?alt=media&token=5f7e7af3-16e8-4757-a617-d0847b11c8e6)
 
 ## 2. โหลดภาพสัญลักษณ์และภาพฉากหลัง <a id="2"></a>
@@ -80,6 +82,76 @@ Scene ทั้งสองนี้จะแสดงภาพสื่อแ�
 ![](https://gblobscdn.gitbook.com/assets%2F-MacQbJEhin4rokH3Cup%2F-Mb1B61xAkZ_u3NFpZm4%2F-Mb1DaL15vKIiaRm5bhf%2Fimage.png?alt=media&token=1dfb3743-4d9d-40a2-b03b-9b534ada7330)
 
 แสดงหน้าที่ของปุ่มบนแผง EZ Controller ตามที่กำหนดไว้ให้ใน Profile
+
+## การตั้งค่า OBS สำหรับ EZ Studio <a id="obs-ez-studio"></a>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#xE0A;&#xE37;&#xE48;&#xE2D;</th>
+      <th style="text-align:left">Download</th>
+      <th style="text-align:left">&#xE04;&#xE33;&#xE2D;&#xE18;&#xE34;&#xE1A;&#xE32;&#xE22;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">&#xE20;&#xE32;&#xE1E;&#xE1E;&#xE37;&#xE49;&#xE19;&#xE2B;&#xE25;&#xE31;&#xE07;&#xE41;&#xE25;&#xE30;&#xE2A;&#xE31;&#xE0D;&#xE25;&#xE31;&#xE01;&#xE29;&#xE13;&#xE4C;&#xE21;&#xE2B;&#xE32;&#xE27;&#xE34;&#xE17;&#xE22;&#xE32;&#xE25;&#xE31;&#xE22;</td>
+      <td
+      style="text-align:left"><a href="https://o365cmu-my.sharepoint.com/personal/arnan_s_cmu_ac_th1/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings%2Fobs%2Dpics%2Ezip&amp;parent=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings&amp;originalPath=aHR0cHM6Ly9vMzY1Y211LW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2FybmFuX3NfY211X2FjX3RoMS9FY3Y2cG4yZExIbE9wQXJsQWYtMXJCY0JJc3FFVXJ6YklRZ2VtWW5VdDN3OU9nP3J0aW1lPTB3VTBRcFlwMlVn">Download</a>
+        </td>
+        <td style="text-align:left">
+          <p>&#xE20;&#xE32;&#xE1E;&#xE1E;&#xE37;&#xE49;&#xE19;&#xE10;&#xE32;&#xE19;&#xE17;&#xE35;&#xE48;&#xE23;&#xE27;&#xE1A;&#xE23;&#xE27;&#xE21;&#xE44;&#xE27;&#xE49;&#xE40;&#xE1E;&#xE37;&#xE48;&#xE2D;&#xE04;&#xE27;&#xE32;&#xE21;&#xE2A;&#xE30;&#xE14;&#xE27;&#xE01;
+            &#xE1B;&#xE23;&#xE30;&#xE01;&#xE2D;&#xE1A;&#xE44;&#xE1B;&#xE14;&#xE49;&#xE27;&#xE22;&#xE2A;&#xE31;&#xE0D;&#xE25;&#xE31;&#xE01;&#xE29;&#xE13;&#xE4C;&#xE21;&#xE2B;&#xE32;&#xE27;&#xE34;&#xE17;&#xE22;&#xE32;&#xE25;&#xE31;&#xE22;&#xE40;&#xE0A;&#xE35;&#xE22;&#xE07;&#xE43;&#xE2B;&#xE21;&#xE48;
+            &#xE02;&#xE19;&#xE32;&#xE14;&#xE43;&#xE2B;&#xE0D;&#xE48; &#xE41;&#xE25;&#xE30;&#xE02;&#xE19;&#xE32;&#xE14;&#xE40;&#xE25;&#xE47;&#xE01;
+            &#xE20;&#xE32;&#xE1E;&#xE1E;&#xE37;&#xE49;&#xE19;&#xE2B;&#xE25;&#xE31;&#xE07;&#xE17;&#xE35;&#xE48;&#xE1E;&#xE23;&#xE49;&#xE2D;&#xE21;&#xE43;&#xE0A;&#xE49;&#xE07;&#xE32;&#xE19;</p>
+          <p>&#x200B;</p>
+          <p>&#xE02;&#xE2D;&#xE43;&#xE2B;&#xE49;&#xE15;&#xE34;&#xE14;&#xE15;&#xE31;&#xE49;&#xE07;&#xE44;&#xE1F;&#xE25;&#xE4C;&#xE44;&#xE27;&#xE49;&#xE43;&#xE19;
+            folder &#xE0A;&#xE37;&#xE48;&#xE2D; <code>c:/obs-pics</code>
+          </p>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">OBS Scene Collection</td>
+      <td style="text-align:left"><a href="https://o365cmu-my.sharepoint.com/personal/arnan_s_cmu_ac_th1/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings%2FTLIC%5FEZ%5FStudio%2Ejson&amp;parent=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings&amp;originalPath=aHR0cHM6Ly9vMzY1Y211LW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2FybmFuX3NfY211X2FjX3RoMS9FZWJhM21lTGJONUJwX3NTeWtzRGdmSUJhb19kWWJsS01IVkVYVG5MUVdnZi1BP3J0aW1lPTFIeXVTcFlwMlVn">Download</a>
+      </td>
+      <td style="text-align:left">Scene &#xE2A;&#xE33;&#xE40;&#xE23;&#xE47;&#xE08;&#xE23;&#xE39;&#xE1B;&#xE2A;&#xE33;&#xE2B;&#xE23;&#xE31;&#xE1A;
+        OBS &#xE43;&#xE19;&#xE0A;&#xE38;&#xE14;&#xE2A;&#xE32;&#xE21;&#xE32;&#xE23;&#xE16;&#xE40;&#xE25;&#xE37;&#xE2D;&#xE01;&#xE41;&#xE2A;&#xE14;&#xE07;
+        &#xE1C;&#xE39;&#xE49;&#xE1E;&#xE39;&#xE14;, &#xE2A;&#xE37;&#xE48;&#xE2D;&#xE19;&#xE33;&#xE40;&#xE2A;&#xE19;&#xE2D;,
+        &#xE41;&#xE17;&#xE23;&#xE01;&#xE1C;&#xE39;&#xE49;&#xE1E;&#xE39;&#xE14;&#xE43;&#xE19;&#xE21;&#xE38;&#xE21;&#xE0B;&#xE49;&#xE32;&#xE22;
+        &#xE41;&#xE25;&#xE30;&#xE02;&#xE27;&#xE32; &#xE15;&#xE34;&#xE14;&#xE15;&#xE31;&#xE49;&#xE07;&#xE43;&#xE19;
+        OBS &#xE42;&#xE14;&#xE22;&#xE40;&#xE25;&#xE37;&#xE2D;&#xE01;&#xE40;&#xE21;&#xE19;&#xE39; <code>Scene Collection / Import</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">OBS Profile</td>
+      <td style="text-align:left"><a href="https://o365cmu-my.sharepoint.com/personal/arnan_s_cmu_ac_th1/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings%2FEZ%5FStudio%5FProfile%2Ezip&amp;parent=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings&amp;originalPath=aHR0cHM6Ly9vMzY1Y211LW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2FybmFuX3NfY211X2FjX3RoMS9FYlh2NFlpOUlzMVBvMzlyT2E1TWVTNEIwS2pQX2VLZ01vRVZtWGxudDNtZ2N3P3J0aW1lPUlIMTRVNVlwMlVn">Download</a>
+      </td>
+      <td style="text-align:left">
+        <p>Profile &#xE17;&#xE35;&#xE48;&#xE15;&#xE31;&#xE49;&#xE07;&#xE04;&#xE48;&#xE32;&#xE04;&#xE35;&#xE22;&#xE4C;&#xE25;&#xE31;&#xE14;&#xE44;&#xE27;&#xE49;&#xE40;&#xE1E;&#xE37;&#xE48;&#xE2D;&#xE43;&#xE0A;&#xE49;&#xE07;&#xE32;&#xE19;&#xE01;&#xE25;&#xE48;&#xE2D;&#xE07;
+          EZ Controller &#xE01;&#xE31;&#xE1A; Scene Collection &#xE44;&#xE14;&#xE49;&#xE42;&#xE14;&#xE22;&#xE07;&#xE48;&#xE32;&#xE22;
+          &#xE19;&#xE2D;&#xE01;&#xE08;&#xE32;&#xE01;&#xE19;&#xE31;&#xE49;&#xE19;&#xE22;&#xE31;&#xE07;&#xE15;&#xE31;&#xE49;&#xE07;&#xE04;&#xE48;&#xE32;&#xE04;&#xE27;&#xE32;&#xE21;&#xE25;&#xE30;&#xE40;&#xE2D;&#xE35;&#xE22;&#xE14;&#xE02;&#xE2D;&#xE07;&#xE01;&#xE25;&#xE49;&#xE2D;&#xE07;
+          Webcam &#xE43;&#xE2B;&#xE49;&#xE40;&#xE1B;&#xE47;&#xE19; Full HD</p>
+        <p>&#x200B;</p>
+        <p>&#xE15;&#xE34;&#xE14;&#xE15;&#xE31;&#xE49;&#xE07;&#xE43;&#xE19; OBS &#xE42;&#xE14;&#xE22;&#xE40;&#xE25;&#xE37;&#xE2D;&#xE01;&#xE40;&#xE21;&#xE19;&#xE39; <code>Profile / Import</code>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#xE42;&#xE1B;&#xE2A;&#xE40;&#xE15;&#xE2D;&#xE23;&#xE4C;&#xE41;&#xE2A;&#xE14;&#xE07;&#xE04;&#xE35;&#xE22;&#xE4C;&#xE25;&#xE31;&#xE14;</td>
+      <td
+      style="text-align:left"><a href="https://o365cmu-my.sharepoint.com/personal/arnan_s_cmu_ac_th1/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings%2FEz%20Controller%20Key%20Mappings%2Epdf&amp;parent=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings&amp;originalPath=aHR0cHM6Ly9vMzY1Y211LW15LnNoYXJlcG9pbnQuY29tLzpiOi9nL3BlcnNvbmFsL2FybmFuX3NfY211X2FjX3RoMS9FWElMZlVvXzB0Qkx2LWNhZG5GNURvRUJib2VhSVNLTkNoNUNqOHZsWXpydFZBP3J0aW1lPUJMUnhYSllwMlVn">PDF</a>,
+        <a
+        href="https://o365cmu-my.sharepoint.com/personal/arnan_s_cmu_ac_th1/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings%2Fez%20controller%20key%20mappings%2Epng&amp;parent=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2FOBS%20Settings&amp;originalPath=aHR0cHM6Ly9vMzY1Y211LW15LnNoYXJlcG9pbnQuY29tLzppOi9nL3BlcnNvbmFsL2FybmFuX3NfY211X2FjX3RoMS9FZHpzWDVmX2ptUk1oTkV3VnRoOG1Zd0JSTWFiNUdVSktkSy02MUxSQWkyYTl3P3J0aW1lPXFMNDBaSllwMlVn">PNG</a>
+          </td>
+          <td style="text-align:left">
+            <p>&#xE20;&#xE32;&#xE1E;&#xE41;&#xE2A;&#xE14;&#xE07;&#xE1C;&#xE31;&#xE07;&#xE41;&#xE25;&#xE30;&#xE2B;&#xE19;&#xE49;&#xE32;&#xE17;&#xE35;&#xE48;&#xE02;&#xE2D;&#xE07;&#xE1B;&#xE48;&#xE38;&#xE21;
+              EZ Controller &#xE17;&#xE35;&#xE48;&#xE43;&#xE0A;&#xE49;&#xE23;&#xE48;&#xE27;&#xE21;&#xE01;&#xE31;&#xE1A;
+              Profile &#xE02;&#xE49;&#xE32;&#xE07;&#xE15;&#xE49;&#xE19;</p>
+            <p>&#x200B;</p>
+          </td>
+    </tr>
+  </tbody>
+</table>
 
 ## การติดตั้ง OBS Studio 
 
