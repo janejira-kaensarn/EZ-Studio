@@ -14,6 +14,8 @@ description: >-
 
 ## **โปรแกรมสำหรับเครื่อง EZ STUDIO Controller Version 1.0 และ 2.0**
 
+หากท่านใช้งานเครื่อง CMU EZ Studio Version 1.0 หรือ 2.0 โปรดติดตั้งโปรแกรมเหล่านี้
+
 | **โปรแกรม** | Download | **คำอธิบาย** |
 | :--- | :--- | :--- |
 | 1.Logitech Capture  | ​[Download](https://www.logitech.com/th-th/product/capture)​ | ช่วยให้การสร้างคอนเทนต์ด้วยเว็บแคมที่เร็ว และใช้งานง่าย โดยใช้ร่วมกับกล้อง Webcam Logitech C922 |
