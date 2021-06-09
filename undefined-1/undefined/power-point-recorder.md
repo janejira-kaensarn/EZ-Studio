@@ -5,7 +5,7 @@ description: >-
   สามารถตอบโจทย์ท่านได้อย่างแน่นอน
 ---
 
-# ด้วย Power Point Recorder
+# Power Point Recorder
 
 ## ⭐ แนะนำ Power Point Recorder
 

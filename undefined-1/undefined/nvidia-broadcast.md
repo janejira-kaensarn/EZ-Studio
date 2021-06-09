@@ -5,7 +5,7 @@ description: >-
   ดูมีความเป็นมืออาชีพมากยิ่งขึ้น
 ---
 
-# ด้วย NVIDIA Broadcast
+# NVIDIA Broadcast
 
 ## ⭐ แนะนำ NVIDIA Broadcast
 

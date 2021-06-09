@@ -4,7 +4,7 @@ description: >-
   Logitech Capture จึงเป็นโปรแกรมที่เป็นที่นิยมที่สุดในการบันทึกสื่อในยุคนี้
 ---
 
-# ด้วย Logitech Capture
+# Logitech Capture
 
 ## ⭐ แนะนำ Logitech Capture
 
