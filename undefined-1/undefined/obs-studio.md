@@ -23,47 +23,41 @@ Video preview
 
 ## 1. ติดตั้งโปรแกรม nVidia Broadcast  <a id="1-nvidia-broadcast"></a>
 
-          ทำการติดตั้งโปรแรกมเป็นลำดับแรก และเปิดใช้งานการตัดภาพพื้นหลังและตัดเสียงรบกวนในโปรแกรมให้เรียบร้อย โดยเปิดใช้ Effect "**Background removal**" สำหรับกล้อง และ "**Noise Removal"** สำหรับ Microphone
+          ทำการติดตั้งโปรแกรมเป็นลำดับแรก และเปิดใช้งานการตัดภาพพื้นหลังและตัดเสียงรบกวนในโปรแกรมให้เรียบร้อย โดยเปิดใช้ Effect "**Background removal**" สำหรับกล้อง และ "**Noise Removal"** สำหรับ Microphone
 
-![](https://gblobscdn.gitbook.com/assets%2F-MacQbJEhin4rokH3Cup%2F-Mb11GznRqeEU6YNCfJ6%2F-Mb196R_9s-ua9mG_y8R%2Fimage.png?alt=media&token=5f7e7af3-16e8-4757-a617-d0847b11c8e6)
+* [ดาวโหลด nVidia Broadcast](../../undefined/undefined-3.md)
 
-| โปรแกรม | Download | คำอธิบาย |
-| :--- | :--- | :--- |
-| 1.nVidia Broadcast | ​[Download](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/)​ | ใช้ความสามารถทาง AI ของการ์ดจอตระกูล RTX ในการตัดภาพฉากหลังผู้พูด และตัดเสียงรบกวนของไมโครโฟน การติดตั้งโปรแกรมนี้ควรต้องใช้ไดร์เวอร์รุ่นล่าสุดของการ์ดจอเสมอ โดยแนะนำให้ติดตั้ง [nVidia Geforce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/) ซึ่งจะดูแลเรื่องการ update driver ให้สะดวกยิ่งขึ้น |
+![&#xE40;&#xE1B;&#xE34;&#xE14;&#xE43;&#xE0A;&#xE49; Effect &quot;Background removal&quot; &#xE2A;&#xE33;&#xE2B;&#xE23;&#xE31;&#xE1A;&#xE01;&#xE25;&#xE49;&#xE2D;&#xE07; &#xE41;&#xE25;&#xE30; Noise Removal &#xE2A;&#xE33;&#xE2B;&#xE23;&#xE31;&#xE1A; Microphone](https://gblobscdn.gitbook.com/assets%2F-MacQbJEhin4rokH3Cup%2F-Mb11GznRqeEU6YNCfJ6%2F-Mb196R_9s-ua9mG_y8R%2Fimage.png?alt=media&token=5f7e7af3-16e8-4757-a617-d0847b11c8e6)
 
 ## 2. โหลดภาพสัญลักษณ์และภาพฉากหลัง <a id="2"></a>
 
-          TLIC ได้โหลดภาพเหล่านี้ เพื่อให้สามารถฝังภาพสัญลักษณ์ของมหาวิทยาลัยเชียงใหม่ และใช้ฉากหลังที่ TLIC จัดหาให้ได้โดยง่าย
+          ท่านสามารถดาวน์โหลดภาพสัญลักษณ์และภาพฉากหลังที่ TLIC จัดหาให้ เพื่อให้สามารถฝังภาพสัญลักษณ์ของมหาวิทยาลัยเชียงใหม่ได้โดยโดยง่าย
 
-          แตกไฟล์ไว้ใน Folder ชื่อ `c:/obs-pics/` หากเก็บไฟล์ในตำแหน่งอื่น จะต้องแก้ไข Scene ให้ชี้ไปยังไฟล์ในตำแหน่งเหล่านั้นในภายหลังด้วย
+* [ดาวน์โหลดไฟล์ภาพสัญลักษณ์และฉากหลัง](../../undefined/undefined-3.md)
 
-{% page-ref page="../../undefined/undefined-3.md" %}
+          แตกไฟล์ไว้ใน Folder ชื่อ `c:/obs-pics/` หากท่านเก็บไฟล์ในตำแหน่งอื่น จะต้องทำการแก้ไข Scene ให้ชี้ไปยังไฟล์ในตำแหน่งเหล่านั้นในภายหลังด้วย
 
 ## 3. โหลด OBS Scene Collection ที่ตั้งค่าไว้ให้แล้ว <a id="3-obs-scene-collection"></a>
 
-          TLIC ได้สร้าง Scene เพื่อใช้บันทึกสื่อการสอนไว้เป็นต้นแบบ สามารถโหลดและนำเข้าในโปรแกรม OBS ได้โดยตรง
+          TLIC ได้สร้าง Scene เพื่อใช้บันทึกสื่อการสอนไว้เป็นต้นแบบ ท่านสามารถโหลดและนำเข้าในโปรแกรม OBS ได้โดยตรง สามารถดาวน์โหลดได้ที่นี่
 
-โหลด Scene Collection
+* [ดาวน์โหลด Scene Collection](../../undefined/undefined-3.md)
 
-{% page-ref page="../../undefined/undefined-3.md" %}
-
-
-
-รายการของ Scene มีดังนี้
-
-
+รายการของ Scene ที่ TLIC จัดทำไว้ให้ มีดังนี้
 
 ### 3.1 Speaker Only <a id="3-1-speaker-only"></a>
 
-แสดงภาพผู้พูดเต็มจอ โดยสามารถเลือกแสดงหรือซ่อนภาพฉากหลัง และตราสัญลักษณ์มหาวิทยาลัยได้ตามความต้องการ
+          แสดงภาพผู้พูดเต็มจอ โดยสามารถเลือก **"แสดง"** หรือ **"ซ่อน"** ภาพฉากหลัง และตราสัญลักษณ์มหาวิทยาลัยได้ตามความต้องการ
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MacQbJEhin4rokH3Cup%2F-Mb11GznRqeEU6YNCfJ6%2F-Mb17aADETL0Q1x12NGm%2Fimage.png?alt=media&token=bd8a1c35-c694-4263-b00a-c3f312fad088)
 
-สามารถเลือกแสดงหรือซ่อนภาพพื้นหลังและตราสัญลักษณ์ได้ในช่องตัวเลือก "Sources" คลิ๊กสัญลักษณ์รูปดวงตาเพื่อสลับสถานะ "แสดง" และ "ซ่อน"
+สามารถเลือกแสดงหรือซ่อนภาพพื้นหลังและตราสัญลักษณ์ได้ในช่องตัวเลือก "**Sources**" คลิ๊กสัญลักษณ์รูปดวงตาเพื่อสลับสถานะ "**แสดง**" และ "**ซ่อน**"
 
-![](https://gblobscdn.gitbook.com/assets%2F-MacQbJEhin4rokH3Cup%2F-Mb11GznRqeEU6YNCfJ6%2F-Mb17sgOT2jt9iEkaOzR%2Fimage.png?alt=media&token=d7cc43c1-3897-40aa-99d9-027feadc5327)
+![&#xE17;&#xE14;&#xE25;&#xE2D;&#xE07;&#xE41;&#xE2A;&#xE14;&#xE07;&#xE2B;&#xE23;&#xE37;&#xE2D;&#xE0B;&#xE48;&#xE2D;&#xE19;&#xE20;&#xE32;&#xE1E;&#xE1E;&#xE37;&#xE49;&#xE19;&#xE2B;&#xE25;&#xE31;&#xE07; &#xE41;&#xE25;&#xE30;&#xE2A;&#xE31;&#xE0D;&#xE25;&#xE31;&#xE01;&#xE29;&#xE13;&#xE4C;&#xE44;&#xE14;&#xE49;&#xE08;&#xE32;&#xE01;&#xE15;&#xE31;&#xE27;&#xE40;&#xE25;&#xE37;&#xE2D;&#xE01;&#xE40;&#xE2B;&#xE25;&#xE48;&#xE32;&#xE19;&#xE35;&#xE49;](https://gblobscdn.gitbook.com/assets%2F-MacQbJEhin4rokH3Cup%2F-Mb11GznRqeEU6YNCfJ6%2F-Mb17sgOT2jt9iEkaOzR%2Fimage.png?alt=media&token=d7cc43c1-3897-40aa-99d9-027feadc5327)
 
-ทดลองแสดงหรือซ่อนภาพพื้นหลัง และสัญลักษณ์ได้จากตัวเลือกเหล่านี้
+{% hint style="info" %}
+หากไม่ได้ใช้โปรแกรม nVidia Broadcast ผู้ใช้จะต้องแก้ไขแหล่งภาพและเสียงใน Scene ให้ตรงกับกล้องและไมโครโฟนที่ใช้จริง เช่นในรายการในภาพข้างต้นจะต้องแก้ไข nVidia Broadcast Camera และ nVidia Broadcast Mic 
+{% endhint %}
 
 ### 3.2 Slide Only <a id="3-2-slide-only"></a>
 
@@ -87,7 +81,11 @@ Video preview
 
           ค่าความละเอียดของการบันทึก รวมถึงคีย์ลัดในการเริ่ม/หยุดการบันทึก ตลอดจนการเปลี่ยน Scene ได้ถูกกำหนดมาให้แล้ว ท่านสามารถโหลดและติดตั้งใน OBS ได้ทันที
 
-          คีย์ลัดที่ตั้งค่าไว้จะช่วยให้สามารถใช้งานกล่อง CMU EZ Studio Controller ในการเลือก Scene และควบคุมการเริ่ม, หยุด, หยุดชั่วคราว ในการบันทึกได้
+* [ดาวน์โหลด OBS Profile ](../../undefined/undefined-3.md)
+
+เมื่อติดตั้ง Profile แล้วให้เปิดใช้งานโดยเลือกเมนู `"Profile / EZ Studio"`
+
+          คีย์ลัดที่ตั้งค่าไว้จะช่วยให้ท่านสามารถใช้งานกล่อง EZ Controller ในการเลือก Scene รูปแบบต่างๆ ได้ทันที รวมไปถึงควบคุมการเริ่ม, หยุด, หยุดชั่วคราว ในการบันทึกได้
 
 ![&#xE20;&#xE32;&#xE1E;&#xE41;&#xE2A;&#xE14;&#xE07;&#xE2B;&#xE19;&#xE49;&#xE32;&#xE17;&#xE35;&#xE48;&#xE02;&#xE2D;&#xE07;&#xE1B;&#xE38;&#xE48;&#xE21;&#xE1A;&#xE19;&#xE41;&#xE1C;&#xE07; EZ Controller &#xE15;&#xE32;&#xE21;&#xE17;&#xE35;&#xE48;&#xE01;&#xE33;&#xE2B;&#xE19;&#xE14;&#xE44;&#xE27;&#xE49;&#xE43;&#xE2B;&#xE49;&#xE43;&#xE19; Profile](https://gblobscdn.gitbook.com/assets%2F-MacQbJEhin4rokH3Cup%2F-Mb1B61xAkZ_u3NFpZm4%2F-Mb1DaL15vKIiaRm5bhf%2Fimage.png?alt=media&token=1dfb3743-4d9d-40a2-b03b-9b534ada7330)
 
