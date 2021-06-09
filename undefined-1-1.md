@@ -52,7 +52,7 @@ description: >-
 
 {% page-ref page="undefined-1/ez-studio.md" %}
 
-
+## ⭐ แนะนำการติดตั้งและการจัดวางตำแหน่งอุปกรณ์ CMU EZ Studio & เทคนิคการจัดองค์ประกอบภาพ
 
 {% embed url="https://www.youtube.com/watch?v=dT0IogTDqxk" %}
 

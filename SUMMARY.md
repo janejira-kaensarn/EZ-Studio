@@ -30,5 +30,5 @@
 
 * [การเชื่อมต่ออุปกรณ์ CMU EZ Studio](undefined/undefined-2.md)
 * [ดาวน์โหลดและติดตั้งโปรแกรมบันทึกสื่อ](undefined/undefined-3.md)
-* [การติดตั้งโปรแกรมสำหรับเครื่อง EZ Studio](undefined/software.md)
+* [การติดตั้งโปรแกรมสำหรับเครื่อง EZ Studio Controller](undefined/software.md)
 
