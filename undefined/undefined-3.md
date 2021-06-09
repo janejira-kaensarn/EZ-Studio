@@ -38,7 +38,7 @@ TLIC ได้ออกแบบการติดตั้งชุดโปร
       style="text-align:left">&#xE19;&#xE2D;&#xE01;&#xE08;&#xE32;&#xE01;&#xE43;&#xE0A;&#xE49;&#xE40;&#xE1B;&#xE34;&#xE14;&#xE44;&#xE1F;&#xE25;&#xE4C;&#xE19;&#xE33;&#xE40;&#xE2A;&#xE19;&#xE2D;&#xE41;&#xE25;&#xE49;&#xE27;
         &#xE22;&#xE31;&#xE07;&#xE2A;&#xE32;&#xE21;&#xE32;&#xE23;&#xE16;&#xE43;&#xE0A;&#xE49;
         Power Point Recorder &#xE43;&#xE19;&#xE01;&#xE32;&#xE23;&#xE1A;&#xE31;&#xE19;&#xE17;&#xE36;&#xE01;&#xE2A;&#xE37;&#xE48;&#xE2D;&#xE2D;&#xE22;&#xE48;&#xE32;&#xE07;&#xE07;&#xE48;&#xE32;&#xE22;&#xE14;&#xE32;&#xE22;&#xE14;&#xE49;&#xE27;&#xE22;
-        &#xE1E;&#xE19;&#xE31;&#xE01;&#xE07;&#xE32;&#xE19;&#xE21;&#xE2B;&#xE32;&#xE27;&#xE34;&#xE17;&#xE22;&#xE32;&#xE25;&#xE31;&#xE22;&#xE40;&#xE0A;&#xE35;&#xE22;&#xE07;&#xE43;&#xE2B;&#xE21;&#xE48;&#xE2A;&#xE32;&#xE21;&#xE32;&#xE23;&#xE16;&#xE14;&#xE32;&#xE27;&#xE4C;&#xE19;&#xE42;&#xE2B;&#xE25;&#xE14;
+        &#xE1E;&#xE19;&#xE31;&#xE01;&#xE07;&#xE32;&#xE19;&#xE21;&#xE2B;&#xE32;&#xE27;&#xE34;&#xE17;&#xE22;&#xE32;&#xE25;&#xE31;&#xE22;&#xE40;&#xE0A;&#xE35;&#xE22;&#xE07;&#xE43;&#xE2B;&#xE21;&#xE48;&#xE2A;&#xE32;&#xE21;&#xE32;&#xE23;&#xE16;&#xE14;&#xE32;&#xE27;&#xE19;&#xE4C;&#xE42;&#xE2B;&#xE25;&#xE14;
         MS Office &#xE44;&#xE14;&#xE49;&#xE08;&#xE32;&#xE01; <a href="https://license.cmu.ac.th/">https://license.cmu.ac.th/</a>&#x200B;</td>
     </tr>
     <tr>

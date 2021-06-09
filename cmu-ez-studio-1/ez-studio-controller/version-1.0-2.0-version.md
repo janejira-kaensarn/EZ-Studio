@@ -1,6 +1,6 @@
 ---
 description: >-
-  การใช้งานCMU EZ Studio Controller ในเวอร์ชันเก่า (เวิร์ชันที่ 1 และ 2)
+  การใช้งานCMU EZ Studio Controller ใน Version เก่า (Version 1.0 และ 2.0)
   จะต้องทำการติดตั้งโปรแกรมที่จำเป็น และทำการตั้งค่าก่อนเริ่มใช้งาน
 ---
 
