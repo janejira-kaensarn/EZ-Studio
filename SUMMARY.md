@@ -18,8 +18,8 @@
 
 * [คู่มือการเข้าใช้งานห้อง CMU EZ Studio](cmu-ez-studio-1/cmu-ez-studio.md)
 * [คู่มือการใช้เครื่อง CMU EZ Studio Controller](cmu-ez-studio-1/ez-studio-controller/README.md)
-  * [Version 1.0, 2.0 \(Version เก่า\)](cmu-ez-studio-1/ez-studio-controller/version-1.0-2.0-version.md)
   * [Version 3.0 \(Version ปัจจุบัน\)](cmu-ez-studio-1/ez-studio-controller/version-3.0-version.md)
+  * [Version 1.0, 2.0 \(Version เก่า\)](cmu-ez-studio-1/ez-studio-controller/version-1.0-2.0-version.md)
 * [คู่มือการใช้แสงไฟ Ring Light LED](cmu-ez-studio-1/ring-light/README.md)
   * [LD-500 Portable Ring Light \(รุ่นใหม่\)](cmu-ez-studio-1/ring-light/ld-500-portable-ring-light.md)
   * [Ring Light LED CY-R50L \(รุ่นเก่า\)](cmu-ez-studio-1/ring-light/ring-light-led-cy-r50l.md)
