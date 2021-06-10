@@ -1,6 +1,7 @@
 # Table of contents
 
 * [แนะนำชุดอุปกรณ์ CMU EZ Studio](README.md)
+* [การเชื่อมต่ออุปกรณ์ CMU EZ Studio](undefined-2.md)
 * [การจัดวางอุปกรณ์ CMU EZ Studio](undefined-1-1.md)
 
 ## เทคนิคการออกแบบและบันทึกสื่อ <a id="undefined-1"></a>
@@ -28,7 +29,6 @@
 
 ## การติดตั้งที่จำเป็น
 
-* [การเชื่อมต่ออุปกรณ์ CMU EZ Studio](undefined/undefined-2.md)
-* [ดาวน์โหลดและติดตั้งโปรแกรมบันทึกสื่อ](undefined/undefined-3.md)
+* [ดาวน์โหลดและติดตั้งโปรแกรมสำหรับบันทึกสื่อ](undefined/undefined-2-1.md)
 * [การติดตั้งโปรแกรมสำหรับเครื่อง EZ Studio Controller](undefined/software.md)
 
