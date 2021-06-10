@@ -55,9 +55,9 @@ description: >-
 
 ![](https://tlic.cmu.ac.th/wp-content/uploads/2020/05/obs-shortcut-keys.png)
 
-## การเปลี่ยนค่าคีย์ของ Ez-Studio
+## การเปลี่ยนค่าคีย์ของ CMU EZ Studio
 
-          หากจำเป็นต้องเปลี่ยนคีย์ที่ถูกส่งออกมาจากปุ่มของ Ez-Controller ก็สามารถใช้โปรแกรม Configuration Tool ในการปรับแต่งได้  ซึ่งการใช้งาน config-tool จำเป็นต้องมีภาษา Python  ติดตั้งอยู่ในเครื่องและมีความรู้ในการเรียกใช้ผ่าน command line
+          หากจำเป็นต้องเปลี่ยนคีย์ที่ถูกส่งออกมาจากปุ่มของ EZ Studio Controller ก็สามารถใช้โปรแกรม Configuration Tool ในการปรับแต่งได้  ซึ่งการใช้งาน Configuration Tool จำเป็นต้องมีภาษา Python  ติดตั้งอยู่ในเครื่อง และมีความรู้ในการเรียกใช้ผ่าน command line
 
 **สามารถดาวน์โหลดได้ที่นี่ :** [Configuration Tool ](https://o365cmu-my.sharepoint.com/personal/arnan_s_cmu_ac_th1/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2Fconfig%20tool%2Fconfig%2Dtool%2Epy&parent=%2Fpersonal%2Farnan%5Fs%5Fcmu%5Fac%5Fth1%2FDocuments%2FITSC%2FTLIC%2FEz%20Studio%2Fconfig%20tool&originalPath=aHR0cHM6Ly9vMzY1Y211LW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2FybmFuX3NfY211X2FjX3RoMS9FZmF0ZnFRaF9VdE9yb1JXVFNVSy1YVUJfakg5UlJabDRCdk5ERHRlc0Z0QVp3P3J0aW1lPV9kS283TzdzMkVn)
 
