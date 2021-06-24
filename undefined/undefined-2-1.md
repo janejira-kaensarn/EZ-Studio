@@ -161,5 +161,7 @@ TLIC ได้ออกแบบการติดตั้งชุดโปร
   </tbody>
 </table>
 
+{% hint style="success" %}
 ดาวโหลดไฟล์ทั้งหมด[กดที่นี่](https://drive.google.com/drive/folders/1Yn0Lp0pvyA1u6dWYfmNOop2Uml6ARj6Q?usp=sharing)
+{% endhint %}
 
