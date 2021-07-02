@@ -23,7 +23,7 @@ Video preview
 
           ทำการติดตั้งโปรแกรมเป็นลำดับแรก และเปิดใช้งานการตัดภาพพื้นหลังและตัดเสียงรบกวนในโปรแกรมให้เรียบร้อย โดยเปิดใช้ Effect "**Background removal**" สำหรับกล้อง และ "**Noise Removal"** สำหรับ Microphone
 
-* [ดาวโหลด nVidia Broadcast]()
+* [ดาวโหลด nVidia Broadcast](https://drive.google.com/drive/u/2/folders/1Yn0Lp0pvyA1u6dWYfmNOop2Uml6ARj6Q)
 
 ![&#xE40;&#xE1B;&#xE34;&#xE14;&#xE43;&#xE0A;&#xE49; Effect &quot;Background removal&quot; &#xE2A;&#xE33;&#xE2B;&#xE23;&#xE31;&#xE1A;&#xE01;&#xE25;&#xE49;&#xE2D;&#xE07; &#xE41;&#xE25;&#xE30; Noise Removal &#xE2A;&#xE33;&#xE2B;&#xE23;&#xE31;&#xE1A; Microphone](https://gblobscdn.gitbook.com/assets%2F-MacQbJEhin4rokH3Cup%2F-Mb11GznRqeEU6YNCfJ6%2F-Mb196R_9s-ua9mG_y8R%2Fimage.png?alt=media&token=5f7e7af3-16e8-4757-a617-d0847b11c8e6)
 
@@ -31,7 +31,7 @@ Video preview
 
           ท่านสามารถดาวน์โหลดภาพสัญลักษณ์และภาพฉากหลังที่ TLIC จัดหาให้ เพื่อให้สามารถฝังภาพสัญลักษณ์ของมหาวิทยาลัยเชียงใหม่ได้โดยโดยง่าย
 
-* [ดาวน์โหลดไฟล์ภาพสัญลักษณ์และฉากหลัง]()
+* [ดาวน์โหลดไฟล์ภาพสัญลักษณ์และฉากหลัง](https://drive.google.com/drive/u/2/folders/1Yn0Lp0pvyA1u6dWYfmNOop2Uml6ARj6Qhttps://drive.google.com/drive/u/2/folders/1Yn0Lp0pvyA1u6dWYfmNOop2Uml6ARj6Q)
 
           แตกไฟล์ไว้ใน Folder ชื่อ `c:/obs-pics/` หากท่านเก็บไฟล์ในตำแหน่งอื่น จะต้องทำการแก้ไข Scene ให้ชี้ไปยังไฟล์ในตำแหน่งเหล่านั้นในภายหลังด้วย
 
@@ -39,7 +39,7 @@ Video preview
 
           TLIC ได้สร้าง Scene เพื่อใช้บันทึกสื่อการสอนไว้เป็นต้นแบบ ท่านสามารถโหลดและนำเข้าในโปรแกรม OBS ได้โดยตรง สามารถดาวน์โหลดได้ที่นี่
 
-* [ดาวน์โหลด Scene Collection]()
+* [ดาวน์โหลด Scene Collection](https://drive.google.com/drive/u/2/folders/1Yn0Lp0pvyA1u6dWYfmNOop2Uml6ARj6Qhttps://drive.google.com/drive/u/2/folders/1Yn0Lp0pvyA1u6dWYfmNOop2Uml6ARj6Qhttps://drive.google.com/drive/u/2/folders/1Yn0Lp0pvyA1u6dWYfmNOop2Uml6ARj6Q)
 
 รายการของ Scene ที่ TLIC จัดทำไว้ให้ มีดังนี้
 
@@ -79,7 +79,7 @@ Video preview
 
           ค่าความละเอียดของการบันทึก รวมถึงคีย์ลัดในการเริ่ม/หยุดการบันทึก ตลอดจนการเปลี่ยน Scene ได้ถูกกำหนดมาให้แล้ว ท่านสามารถโหลดและติดตั้งใน OBS ได้ทันที
 
-* [ดาวน์โหลด OBS Profile ]()
+* [ดาวน์โหลด OBS Profile ](https://drive.google.com/drive/u/2/folders/1Yn0Lp0pvyA1u6dWYfmNOop2Uml6ARj6Q)
 
 เมื่อติดตั้ง Profile แล้วให้เปิดใช้งานโดยเลือกเมนู `"Profile / EZ Studio"`
 
@@ -156,6 +156,10 @@ Video preview
     </tr>
   </tbody>
 </table>
+
+{% hint style="success" %}
+ดาวโหลดไฟล์ทั้งหมด[กดที่นี่](https://drive.google.com/drive/folders/1Yn0Lp0pvyA1u6dWYfmNOop2Uml6ARj6Q?usp=sharing)
+{% endhint %}
 
 ## การติดตั้ง OBS Studio 
 
