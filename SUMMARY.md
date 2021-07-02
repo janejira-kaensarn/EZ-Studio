@@ -32,3 +32,7 @@
 * [ดาวน์โหลดและติดตั้งโปรแกรมสำหรับบันทึกสื่อ](undefined/undefined-2-1.md)
 * [การติดตั้งโปรแกรมสำหรับเครื่อง EZ Studio Controller](undefined/software.md)
 
+---
+
+* [คำถามที่พบบ่อย FAQs](faqs.md)
+
