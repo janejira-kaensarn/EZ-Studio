@@ -60,8 +60,8 @@ description: >-
 | tripod                     | yes                            |
 | H.264 coding               | yes                            |
 
-{% content-ref url="cmu-ez-studio-1/webcam.md" %}
-[webcam.md](cmu-ez-studio-1/webcam.md)
+{% content-ref url="manual/webcam.md" %}
+[webcam.md](manual/webcam.md)
 {% endcontent-ref %}
 
 
@@ -87,8 +87,8 @@ description: >-
 | Sample Rate              | <p>44.1 kHz<br>48 kHz</p> |
 | Operating System Support | Windows, macOS/OS X       |
 
-{% content-ref url="cmu-ez-studio-1/undefined-1.md" %}
-[undefined-1.md](cmu-ez-studio-1/undefined-1.md)
+{% content-ref url="manual/microphone.md" %}
+[microphone.md](manual/microphone.md)
 {% endcontent-ref %}
 
 
@@ -113,8 +113,8 @@ description: >-
 | PLumens     | 6500LUX        |
 | Flash Index | RA≥90 External |
 
-{% content-ref url="cmu-ez-studio-1/ring-light/" %}
-[ring-light](cmu-ez-studio-1/ring-light/)
+{% content-ref url="manual/ring-light/" %}
+[ring-light](manual/ring-light/)
 {% endcontent-ref %}
 
 
@@ -125,8 +125,8 @@ description: >-
 
 เครื่อง EZ Studio Controller  Version 3.0 ซึ่งเป็นเวอร์ชันล่าสุดในขณะนี้ ท่านสามารถใช้งานได้ทันทีเพียงเชื่อมต่อเข้ากับคอมพิวเตอร์หรือ Laptop โดยไม่ต้องทำการลงโปรแกรมเหมือนกับ Version 1.0 และ 2.0
 
-{% content-ref url="cmu-ez-studio-1/ez-studio-controller/" %}
-[ez-studio-controller](cmu-ez-studio-1/ez-studio-controller/)
+{% content-ref url="manual/ez-studio-controller/" %}
+[ez-studio-controller](manual/ez-studio-controller/)
 {% endcontent-ref %}
 
 
