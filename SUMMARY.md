@@ -1,6 +1,7 @@
 # Table of contents
 
 * [แนะนำชุดอุปกรณ์ CMU EZ Studio](README.md)
+* [กลับไปหน้าสารบัญคู่มือ](back-to-index.md)
 * [การเชื่อมต่ออุปกรณ์ CMU EZ Studio](device-connection.md)
 * [การจัดวางอุปกรณ์ CMU EZ Studio](arrangement.md)
 
