@@ -5,7 +5,7 @@
 * [การเชื่อมต่ออุปกรณ์ CMU EZ Studio](device-connection.md)
 * [การจัดวางอุปกรณ์ CMU EZ Studio](arrangement.md)
 
-## เทคนิคการออกแบบและบันทึกสื่อ <a href="technics" id="technics"></a>
+## เทคนิคการออกแบบและบันทึกสื่อ <a href="#technics" id="technics"></a>
 
 * [แนวคิดในการออกแบบสื่อ Online](technics/online-media-design.md)
 * [เทคนิคการจัดองค์ประกอบของภาพ](technics/composition.md)
@@ -16,7 +16,7 @@
   * [NVIDIA Broadcast](technics/programs/nvidia-broadcast.md)
   * [OBS Studio](technics/programs/obs-studio.md)
 
-## คู่มือการใช้งานชุดอุปกรณ์ CMU EZ Studio <a href="manual" id="manual"></a>
+## คู่มือการใช้งานชุดอุปกรณ์ CMU EZ Studio <a href="#manual" id="manual"></a>
 
 * [คู่มือการเข้าใช้งานห้อง CMU EZ Studio](manual/cmu-ez-studio-room.md)
 * [คู่มือการใช้เครื่อง CMU EZ Studio Controller](manual/ez-studio-controller/README.md)
@@ -28,7 +28,7 @@
 * [คู่มือการใช้กล้อง Webcam](manual/webcam.md)
 * [คู่มือการใช้ไมโครโฟน](manual/microphone.md)
 
-## การติดตั้งที่จำเป็น <a href="installation" id="installation"></a>
+## การติดตั้งที่จำเป็น <a href="#installation" id="installation"></a>
 
 * [ดาวน์โหลดและติดตั้งโปรแกรมสำหรับบันทึกสื่อ](installation/download.md)
 * [การติดตั้งโปรแกรมสำหรับเครื่อง EZ Studio Controller](installation/software.md)
@@ -36,3 +36,9 @@
 ***
 
 * [คำถามที่พบบ่อย FAQs](faqs.md)
+
+## การ Livestream บน Platform ต่างๆ
+
+* [Live stream คืออะไร?](livestream-platform/live-stream.md)
+* [YouTube](livestream-platform/youtube.md)
+* [Microsoft Stream](livestream-platform/microsoft-stream.md)

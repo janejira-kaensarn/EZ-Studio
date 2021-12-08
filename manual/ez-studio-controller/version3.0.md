@@ -6,7 +6,7 @@ description: >-
 
 # Version 3.0 (Version ปัจจุบัน)
 
-## รายละเอียดส่วนต่างๆ ของเครื่อง CMU EZ Studio Controller ** (Version 3.0)**
+## รายละเอียดส่วนต่างๆ ของเครื่อง CMU EZ Studio Controller **(Version 3.0)**
 
 ![](<../../.gitbook/assets/image (40).png>)
 
