@@ -27,4 +27,4 @@
 
 4.รองรับการ Streaming ในหลากหลาย Platform
 
-![](<../.gitbook/assets/image (207).png>)
+![](<../.gitbook/assets/image (207) (1).png>)
