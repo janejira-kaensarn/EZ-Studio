@@ -42,3 +42,4 @@
 * [Live stream คืออะไร?](livestream-platform/live-stream.md)
 * [YouTube](livestream-platform/youtube.md)
 * [Microsoft Stream](livestream-platform/microsoft-stream.md)
+* [Facebook](livestream-platform/facebook.md)
