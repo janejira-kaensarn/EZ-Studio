@@ -37,10 +37,11 @@
 
 * [คำถามที่พบบ่อย FAQs](faqs.md)
 
-## การ Livestream บน Platform ต่างๆ
+## การใช้งาน OBS ร่วมกับ Platform ต่างๆ
 
-* [Live stream คืออะไร?](livestream-platform/live-stream.md)
-* [YouTube](livestream-platform/youtube.md)
-* [Microsoft Stream](livestream-platform/microsoft-stream.md)
-* [Facebook](livestream-platform/facebook.md)
-* [Zoom](livestream-platform/zoom.md)
+* [Live stream และ OBS คืออะไร?](obs-platform/live-stream-obs.md)
+* [YouTube](obs-platform/youtube.md)
+* [Microsoft Stream](obs-platform/microsoft-stream.md)
+* [Facebook](obs-platform/facebook.md)
+* [Zoom](obs-platform/zoom.md)
+* [Microsoft Teams](obs-platform/microsoft-teams.md)

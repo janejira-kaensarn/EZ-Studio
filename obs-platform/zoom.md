@@ -22,11 +22,11 @@
 
 9.เมื่อต้องการปิดการใช้งาน OBS ให้กด Stop Virtual Camera ทั้งสองตำแหน่งใน OBS และ Stop Video หรือเปลี่ยนเป็นกล้องเว็บแคมตามปกติใน Zoom เป็นอันเสร็จเรียบร้อย
 
-![กด Stop VirtualCam ที่หน้าต่าง VirtualCam ของ OBS](<../.gitbook/assets/image (206).png>)
+![กด Stop VirtualCam ที่หน้าต่าง VirtualCam ของ OBS](<../.gitbook/assets/image (206) (1).png>)
 
 ![กด Stop Virtual Camera ที่แถบเมนูมุมขวาล่างของ OBS](<../.gitbook/assets/image (198).png>)
 
-![ใน Zoom กด Stop Video หรือ ^ เพื่อเปลี่ยนเป็นกล้องเว็บแคมปกติ](<../.gitbook/assets/image (196).png>)
+![ใน Zoom กด Stop Video หรือ ^ เพื่อเปลี่ยนเป็นกล้องเว็บแคมปกติ](<../.gitbook/assets/image (196) (1).png>)
 
 {% hint style="info" %}
 **ควรปิดการใช้งาน Virtual Camera ใน OBS และ Zoom ให้เรียบร้อย ไม่แนะนำให้ปิดเฉพาะแค่อย่างใดอย่างหนึ่ง**
