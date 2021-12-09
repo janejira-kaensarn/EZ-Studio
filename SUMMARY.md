@@ -43,3 +43,4 @@
 * [YouTube](livestream-platform/youtube.md)
 * [Microsoft Stream](livestream-platform/microsoft-stream.md)
 * [Facebook](livestream-platform/facebook.md)
+* [Zoom](livestream-platform/zoom.md)
