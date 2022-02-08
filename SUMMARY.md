@@ -4,6 +4,9 @@
 * [กลับไปหน้าสารบัญคู่มือ](back-to-index.md)
 * [การเชื่อมต่ออุปกรณ์ CMU EZ Studio](device-connection.md)
 * [การจัดวางอุปกรณ์ CMU EZ Studio](arrangement.md)
+* [บริการ EZ Media Self Studio](ez-media-self-studio/README.md)
+  * [ข้อตกลงการใช้งาน EZ Media Self Studio](ez-media-self-studio/ez-media-self-studio.md)
+  * [การจองใช้งานห้อง EZ Media Self Studio](ez-media-self-studio/ez-media-self-studio-1.md)
 
 ## เทคนิคการออกแบบและบันทึกสื่อ <a href="#technics" id="technics"></a>
 
