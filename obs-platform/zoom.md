@@ -4,7 +4,7 @@
 
 1.เปิดโปรแกรม OBS กดที่ Start Virtual Camera ที่บริเวณแถบเมนูด้านขวาล่าง เพื่อเปิดใช้งาน
 
-![](<../.gitbook/assets/image (208) (1).png>)
+![](<../.gitbook/assets/image (208) (1) (1).png>)
 
 2.ไปที่ Tool -> VirtualCam หน้าต่าง VirtualCam จะปรากฏขึ้น เลือก Target Camera เป็น OBS-Camera จากนั้นกด Start
 
@@ -14,7 +14,7 @@
 
 4.ทำการ Start Video จากนั้นกดที่ ^ ข้างปุ่ม Start Video -> Video Setting หน้าต่างการตั้งค่าจะปรากฏขึ้น
 
-![](<../.gitbook/assets/image (209) (1).png>)
+![](<../.gitbook/assets/image (209) (1) (1).png>)
 
 5.ตั้งค่าส่วนของ Video ที่ Camera ให้เลือกกล้องเป็น OBS Virtual Camera เมื่อระบบเชื่อมต่อการใช้งานสำเร็จ ภาพวิดีโอตัวอย่างจะปรากฏขึ้น กดปิดหน้าต่าง Setting และเข้าไปใช้งานที่ OBS ได้ทันที
 
@@ -22,7 +22,7 @@
 
 6.เมื่อต้องการปิดการใช้งาน OBS ให้กด Stop Virtual Camera ทั้งสองตำแหน่งใน OBS และ Stop Video หรือเปลี่ยนเป็นกล้องเว็บแคมตามปกติใน Zoom เป็นอันเสร็จเรียบร้อย
 
-![กด Stop VirtualCam ที่หน้าต่าง VirtualCam ของ OBS](<../.gitbook/assets/image (206) (1).png>)
+![กด Stop VirtualCam ที่หน้าต่าง VirtualCam ของ OBS](<../.gitbook/assets/image (206) (1) (1).png>)
 
 ![กด Stop Virtual Camera ที่แถบเมนูมุมขวาล่างของ OBS](<../.gitbook/assets/image (198).png>)
 

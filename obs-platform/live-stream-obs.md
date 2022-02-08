@@ -23,8 +23,8 @@
 
 3.มี Studio Mode แบ่งส่วนตัวอย่างก่อนการออกอากาศจริง(ซ้าย)และส่วนที่กำลังถ่ายทอดสดอยู่ใน Platform อื่น(ขวา)
 
-![](<../.gitbook/assets/image (206).png>)
+![](<../.gitbook/assets/image (206) (1).png>)
 
 4.รองรับการ Streaming ในหลากหลาย Platform
 
-![](<../.gitbook/assets/image (207) (1).png>)
+![](<../.gitbook/assets/image (207) (1) (1).png>)
