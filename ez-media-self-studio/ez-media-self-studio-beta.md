@@ -6,7 +6,7 @@
 
 2.เลือกจองใช้งานห้องที่ต้องการ
 
-![](<../.gitbook/assets/image (205).png>)
+![](<../.gitbook/assets/image (212).png>)
 
 3.ระบบจะเข้าสู่หน้าจอแสดงตารางสำหรับจองห้อง ปฏิทิน วันและเวลาที่ห้องว่าง สามารถจองใช้งานได้ ให้ทำการล็อคอินด้วย CMU Account เพื่อเข้าใช้งานระบบจองห้อง
 
@@ -49,4 +49,4 @@ Google Map : [https://goo.gl/maps/TyRdYqVj6Lrq1TRY7](https://goo.gl/maps/TyRdYqV
 
 9.ใช้ QR Code ดังกล่าวสแกนที่บริเวณเครื่องด้านหน้าห้อง EZ Media Self Studio เพื่อทำการเข้าใช้งานห้องได้ทันที
 
-![](<../.gitbook/assets/image (212).png>)
+![](<../.gitbook/assets/image (212) (1).png>)
