@@ -215,7 +215,7 @@ description: >-
 
 ![](<../../.gitbook/assets/image (139).png>)
 
-&#x20;     ท่านสามารถตั้งค่าความดังเบาของเสียงไมโครโฟนและลำโพงของท่านได้ โดยปรับปุ่มรูปไมโครโฟนและลำโพง บริเวณมุมขวาล่างของหน้าจอดังภาพ ![](<../../.gitbook/assets/image (161).png>)&#x20;
+&#x20;     ท่านสามารถตั้งค่าความดังเบาของเสียงไมโครโฟนและลำโพงของท่านได้ โดยปรับปุ่มรูปไมโครโฟนและลำโพง บริเวณมุมขวาล่างของหน้าจอดังภาพ <img src="../../.gitbook/assets/image (161).png" alt="" data-size="original">&#x20;
 
 ### 6. การตั้งค่าปุ่มลัด
 
@@ -241,7 +241,7 @@ description: >-
 
 โดยเมื่อกดบันทึกแล้ว สถานะของปุ่ม บนโปรแกรม Logitech Capture นั้นจะเปลี่ยนจาก
 
-&#x20;                              ![](<../../.gitbook/assets/image (32).png>)   เป็น    ![](<../../.gitbook/assets/image (31).png>)&#x20;
+&#x20;                              <img src="../../.gitbook/assets/image (32).png" alt="" data-size="original">   เป็น    <img src="../../.gitbook/assets/image (31).png" alt="" data-size="original">&#x20;
 
 &#x20;        โดยระหว่างการบันทึกนั้นหากท่านต้องควบคุมสื่อ Scene 1 และ Scene 2 ให้เป็นรูปแบบต่าง ๆ  ท่านสามารถกดปุ่ม Source 1, Source 2, A, B, C และ D บนกล่อง CMU EZ Studio Controller ได้   หากท่านใดไม่มี กล่อง CMU EZ Studio Controller ท่านก็ยังสามารถใช้ปุ่มลัดบนแป้นพิมพ์ หรือ ใช้เม้าส์กดปุ่มต่างๆบนโปรแกรม Logitech Capture ได้
 

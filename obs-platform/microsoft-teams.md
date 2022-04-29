@@ -16,7 +16,7 @@
 
 ![เปิดใช้งานกล้อง(ด้านซ้าย)และเลือกที่เครื่องหมายฟันเฟือง(ด้านขวา)](<../.gitbook/assets/image (212) (1) (1).png>)
 
-![เลือกส่วนของ Camera ให้เป็น OBS Virtual Camera](<../.gitbook/assets/image (215).png>)
+![เลือกส่วนของ Camera ให้เป็น OBS Virtual Camera](<../.gitbook/assets/image (215) (1).png>)
 
 5.เมื่อระบบเชื่อมต่อการใช้งานสำเร็จ ภาพวิดีโอตัวอย่างจะปรากฏขึ้นที่ด้านซ้าย กด Join Now เพื่อทำการเข้าสู่ Meeting
 

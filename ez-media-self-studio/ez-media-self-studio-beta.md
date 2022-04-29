@@ -49,4 +49,4 @@ Google Map : [https://goo.gl/maps/TyRdYqVj6Lrq1TRY7](https://goo.gl/maps/TyRdYqV
 
 9.ใช้ QR Code ดังกล่าวสแกนที่บริเวณเครื่องด้านหน้าห้อง EZ Media Self Studio เพื่อทำการเข้าใช้งานห้องได้ทันที
 
-![](<../.gitbook/assets/image (212) (1).png>)
+![](<../.gitbook/assets/image (215).png>)
