@@ -29,9 +29,7 @@
 5.ทำการดาวน์โหลดแอพลิเคชั่น CMU Mobile ในอุปกรณ์เคลื่อนที่
 
 iOS : [https://apps.apple.com/th/app/cmu-mobile/id946339651?l=th](https://apps.apple.com/th/app/cmu-mobile/id946339651?l=th\&fbclid=IwAR2I\_tOPk6krYrSvuC-Q9s9QJaZIPe-uR8rkhnkPy8iwlpKrf6BZgM9HrpU)\
-Android : [https://play.google.com/store/apps/details...](https://play.google.com/store/apps/details?id=th.ac.cmu.mobile.portal\&hl=th\&fbclid=IwAR3xI2tgMr09o2dflENWxkH9QDp3AmNu8RlEJnX829dlZClfJyaeQLwxHpA)
-
-![https://www.facebook.com/CMUAlumniCenter/photos/pcb.3230517110392573/3230516160392668/](<../.gitbook/assets/image (201).png>)
+Android :  [https://cmu.to/CMUmoblieAPK](https://cmu.to/CMUmoblieAPK?fbclid=IwAR0XyzZTwq3KxeJPmmlfbT9F5Ky3awqDexZyI1wXIhdWvZQTxMid4OVKrfA) (ไฟล์ .APK)
 
 กรณีที่ยังไม่เคยใช้งาน ให้ล็อคอินด้วย CMU Account ทำการลงทะเบียน กรอกข้อมูลส่วนตัว และตั้งรหัส PIN Code ให้เรียบร้อย
 
