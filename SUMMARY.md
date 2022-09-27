@@ -48,3 +48,4 @@
 * [Facebook](obs-platform/facebook.md)
 * [Zoom](obs-platform/zoom.md)
 * [Microsoft Teams](obs-platform/microsoft-teams.md)
+* [NVDIA Broadcast](obs-platform/nvdia-broadcast.md)

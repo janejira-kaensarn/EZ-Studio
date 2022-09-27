@@ -2,7 +2,7 @@
 
 Facebook เป็น Platform Social Media ขนาดใหญ่ เป็นที่รู้จักกันในวงกว้าง และมีผู้ใช้งานเป็นจำนวนมาก แม้ว่าจะไม่ใช่ Platform ที่เกี่ยวข้องทางด้านวิดีโอโดยตรง แต่อย่างไรก็ตามบน Facebook เองก็รองรับการใช้งาน content ประเภทวิดีโออยู่หลายรูปแบบ เช่น การอัปโหลดวิดีโอ การถ่ายทอดสด เป็นต้น การตั้งค่าสำหรับการ Live Stream บน Facebook(2021) ด้วย OBS มีวิธีการดังนี้
 
-1.Login ใน[ ](https://www.facebook.com)[https://www.facebook.com/](https://www.facebook.com) (ต้องมี Account)
+1.Login ใน[ ](https://www.facebook.com/)[https://www.facebook.com/](https://www.facebook.com/) (ต้องมี Account)
 
 2.เลือก "วิดีโอถ่ายทอดสด" ที่บริเวณด้านล่างช่องเขียนสเตตัส
 

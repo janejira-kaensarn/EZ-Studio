@@ -2,7 +2,7 @@
 
 Microsoft Stream เป็น Platform สำหรับการถ่ายทอดสดและลง content ประเภทวิดีโอค้ลายกับ YouTube แต่มีข้อแตกต่างที่สำคัญคือสามารถกำหนด Privacy ในการเข้าชมให้เป็นระดับองค์กรหรือรายบุคคลได้ ซึ่งแตกต่างจาก YouTube ที่จะเน้นการเผยแพร่และถ่ายทอดสดในรูปแบบสาธารณะมากกว่า การตั้งค่าสำหรับการ Live Stream บน Microsoft Stream ด้วย OBS มีวิธีการดังนี้
 
-1.Login ใน [https://web.microsoftstream.com/](https://web.microsoftstream.com) (สามารถใช้ cmu Account ได้)
+1.Login ใน [https://web.microsoftstream.com/](https://web.microsoftstream.com/) (สามารถใช้ cmu Account ได้)
 
 2.ไปที่แถบเมนูมุมซ้ายบน เลือก Create -> Live Event
 

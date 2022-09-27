@@ -34,7 +34,7 @@ description: >-
 
 ### ตัวอย่างการใช้งานกับโปรแกรม OBS
 
-&#x20;         หากต้องการใช้งาน CMU EZ Studio Controller  กับโปรแกรม [Open Broadcaster Software (OBS)](https://obsproject.com) ก็สามารถใช้ประโยชน์จากความสามารถการกำหนดคีย์ลัดของ OBS เพื่อกำหนดว่าปุ่มใดบน CMU EZ Studio Controller จะทำหน้าที่อะไรใน OBS ดังแสดงในภาพ
+&#x20;         หากต้องการใช้งาน CMU EZ Studio Controller  กับโปรแกรม [Open Broadcaster Software (OBS)](https://obsproject.com/) ก็สามารถใช้ประโยชน์จากความสามารถการกำหนดคีย์ลัดของ OBS เพื่อกำหนดว่าปุ่มใดบน CMU EZ Studio Controller จะทำหน้าที่อะไรใน OBS ดังแสดงในภาพ
 
 ![](https://tlic.cmu.ac.th/wp-content/uploads/2020/05/obs-shortcut-keys.png)
 

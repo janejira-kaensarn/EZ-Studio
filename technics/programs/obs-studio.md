@@ -25,7 +25,7 @@ description: >-
 
 &#x20;         ท่านสามารถดาวน์โหลดภาพสัญลักษณ์และภาพฉากหลังที่ TLIC จัดหาให้ เพื่อให้สามารถฝังภาพสัญลักษณ์ของมหาวิทยาลัยเชียงใหม่ได้โดยโดยง่าย
 
-* [ดาวน์โหลดไฟล์ภาพสัญลักษณ์และฉากหลัง](https://drive.google.com/drive/u/2/folders/1Yn0Lp0pvyA1u6dWYfmNOop2Uml6ARj6Qhttps://drive.google.com/drive/u/2/folders/1Yn0Lp0pvyA1u6dWYfmNOop2Uml6ARj6Q)
+* [ดาวน์โหลดไฟล์ภาพสัญลักษณ์และฉากหลัง](https://drive.google.com/drive/u/2/folders/1Yn0Lp0pvyA1u6dWYfmNOop2Uml6ARj6Qhttps:/drive.google.com/drive/u/2/folders/1Yn0Lp0pvyA1u6dWYfmNOop2Uml6ARj6Q)
 
 &#x20;         แตกไฟล์ไว้ใน Folder ชื่อ `c:/obs-pics/` หากท่านเก็บไฟล์ในตำแหน่งอื่น จะต้องทำการแก้ไข Scene ให้ชี้ไปยังไฟล์ในตำแหน่งเหล่านั้นในภายหลังด้วย
 
@@ -33,7 +33,7 @@ description: >-
 
 &#x20;         TLIC ได้สร้าง Scene เพื่อใช้บันทึกสื่อการสอนไว้เป็นต้นแบบ ท่านสามารถโหลดและนำเข้าในโปรแกรม OBS ได้โดยตรง สามารถดาวน์โหลดได้ที่นี่
 
-* [ดาวน์โหลด Scene Collection](https://drive.google.com/drive/u/2/folders/1Yn0Lp0pvyA1u6dWYfmNOop2Uml6ARj6Qhttps://drive.google.com/drive/u/2/folders/1Yn0Lp0pvyA1u6dWYfmNOop2Uml6ARj6Qhttps://drive.google.com/drive/u/2/folders/1Yn0Lp0pvyA1u6dWYfmNOop2Uml6ARj6Q)
+* [ดาวน์โหลด Scene Collection](https://drive.google.com/drive/u/2/folders/1Yn0Lp0pvyA1u6dWYfmNOop2Uml6ARj6Qhttps:/drive.google.com/drive/u/2/folders/1Yn0Lp0pvyA1u6dWYfmNOop2Uml6ARj6Qhttps:/drive.google.com/drive/u/2/folders/1Yn0Lp0pvyA1u6dWYfmNOop2Uml6ARj6Q)
 
 รายการของ Scene ที่ TLIC จัดทำไว้ให้ มีดังนี้
 
@@ -96,4 +96,4 @@ description: >-
 
 ## การติดตั้ง OBS Studio&#x20;
 
-**ดาวน์โหลดได้ที่นี่** : [https://obsproject.com/](https://obsproject.com)
+**ดาวน์โหลดได้ที่นี่** : [https://obsproject.com/](https://obsproject.com/)

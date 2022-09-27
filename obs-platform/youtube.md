@@ -2,7 +2,7 @@
 
 YouTube จัดว่าเป็น Platform ขนาดใหญ่ด้านการ Streaming และวิดีโอซึ่งเป็นที่รู้จักกันอย่างแพร่หลายและนิยมใช้สำหรับการทำ content และ Live Stream เป็นอย่างมาก การตั้งค่าสำหรับการ Live Stream บน YouTube ด้วย OBS มีวิธีการดังนี้
 
-1.Login ใน [https://www.youtube.com/](https://www.youtube.com) (ต้องมี Account)
+1.Login ใน [https://www.youtube.com/](https://www.youtube.com/) (ต้องมี Account)
 
 2.เมื่อ Login แล้ว เลือกที่ไอคอนรูปกล้องฉายวิดีโอที่มุมขวาบน จากนั้นเลือก 'ถ่ายทอดสด'
 
