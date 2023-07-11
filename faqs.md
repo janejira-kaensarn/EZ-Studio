@@ -12,7 +12,9 @@ description: รวบรวมคำถามที่พบบ่อย พร
 
 ## สามาถสั้งซื้อ เครื่อง CMU EZ Controller version 3.0 ได้ที่ไหน?
 
-ท่านสามารถสั่งซื้อเครื่อง CMU EZ Controller version 3.0 ได้จาก ร้านค้าใน Website Lazada โดยเข้าถึงได้จาก [https://www.lazada.co.th/products/ez-studio-controller-30-i1636710823.html](https://www.lazada.co.th/products/ez-studio-controller-30-i1636710823.html)
+ท่านสามารถสั่งซื้อเครื่อง CMU EZ Controller version 3.0 ได้จาก ร้านค้าใน Website Lazada โดยเข้าถึงได้จาก&#x20;
+
+[https://shopee.co.th/EZ-Studio-Controller-3.0-i.67362721.21190600915?sp\_atk=9b62e134-d8cd-4ad9-9c9f-32f0429b035c\&xptdk=9b62e134-d8cd-4ad9-9c9f-32f0429b035c](https://shopee.co.th/EZ-Studio-Controller-3.0-i.67362721.21190600915?sp\_atk=9b62e134-d8cd-4ad9-9c9f-32f0429b035c\&xptdk=9b62e134-d8cd-4ad9-9c9f-32f0429b035c)
 
 ## อ่านคู่มือแล้วยังใช้ไม่เป็นสามารถทำอย่างไรได้บ้าง
 
