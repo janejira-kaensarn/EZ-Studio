@@ -1,8 +1,8 @@
-# การจองใช้งานห้อง EZ Media Self Studio(Beta)
+# การจองใช้งานห้อง EZ Self Studio และ EZ Active Classroom
 
-1.เข้าสู่เว็บไซต์การจองใช้งานที่ [https://ezbooking.tlic.cmu.ac.th/select-room](https://ezbooking.tlic.cmu.ac.th/select-room)
+1.เข้าสู่เว็บไซต์การจองใช้งาน[ที่นี่](https://ezbooking.tlic.cmu.ac.th/)
 
-{% embed url="https://ezbooking.tlic.cmu.ac.th/select-room" %}
+**สำหรับห้อง EZ Active Classroom จำเป็นต้องผ่านคอร์สเพื่อรับสิทธิ์การจองใช้งาน สามารถเข้าคอร์สเพื่อผ่านเงื่อนไขและรับสิทธิ์ได้**[**ที่นี่**](https://mango-cmu.instructure.com/enroll/8DBADD)
 
 2.เลือกจองใช้งานห้องที่ต้องการ
 
@@ -30,25 +30,27 @@
 
 ![](<../.gitbook/assets/image (206).png>)
 
-5.ทำการดาวน์โหลดแอพลิเคชั่น CMU Mobile ในอุปกรณ์เคลื่อนที่
+### **ขั้นตอนสำหรับการเข้าใช้งานห้อง EZ Self Studio หลังจากจองห้องในระบบแล้ว**
+
+1.ทำการดาวน์โหลดแอพลิเคชั่น CMU Mobile ในอุปกรณ์เคลื่อนที่
 
 iOS : [https://apps.apple.com/th/app/cmu-mobile/id946339651?l=th](https://apps.apple.com/th/app/cmu-mobile/id946339651?l=th\&fbclid=IwAR2I\_tOPk6krYrSvuC-Q9s9QJaZIPe-uR8rkhnkPy8iwlpKrf6BZgM9HrpU)\
 Android :  [https://cmu.to/CMUmoblieAPK](https://cmu.to/CMUmoblieAPK?fbclid=IwAR0XyzZTwq3KxeJPmmlfbT9F5Ky3awqDexZyI1wXIhdWvZQTxMid4OVKrfA) (ไฟล์ .APK)
 
 กรณีที่ยังไม่เคยใช้งาน ให้ล็อคอินด้วย CMU Account ทำการลงทะเบียน กรอกข้อมูลส่วนตัว และตั้งรหัส PIN Code ให้เรียบร้อย
 
-6.มาที่ห้อง EZ Media Self Studio ณ ศูนย์นวัตกรรมการสอนและการเรียนรู้ มหาวิทยาลัยเชียงใหม่ ชั้น 3 ใกล้กับศูนย์อาหารมหาวิทยาลัยเชียงใหม่ ในวันและเวลาที่จองใช้งานไว้
+2.มาที่ห้อง EZ Self Studio ณ ศูนย์นวัตกรรมการสอนและการเรียนรู้ มหาวิทยาลัยเชียงใหม่ ชั้น 3 ใกล้กับศูนย์อาหารมหาวิทยาลัยเชียงใหม่ ในวันและเวลาที่จองใช้งานไว้
 
 Google Map : [https://goo.gl/maps/TyRdYqVj6Lrq1TRY7](https://goo.gl/maps/TyRdYqVj6Lrq1TRY7)
 
-7.เปิดแอพลิเคชั่น CMU Mobile เข้ามาที่หน้าแรก เลือกไอค่อนรูป QR Code บริเวณแถบด้านบน
+3.เปิดแอพลิเคชั่น CMU Mobile เข้ามาที่หน้าแรก เลือกไอค่อนรูป QR Code บริเวณแถบด้านบน
 
 ![](<../.gitbook/assets/image (202).png>)
 
-8.เลือกที่ My QR&#x20;
+4.เลือกที่ My QR&#x20;
 
 ![](<../.gitbook/assets/image (200).png>)
 
-9.ใช้ QR Code ดังกล่าวสแกนที่บริเวณเครื่องด้านหน้าห้อง EZ Media Self Studio เพื่อทำการเข้าใช้งานห้องได้ทันที
+5.ใช้ QR Code ดังกล่าวสแกนที่บริเวณเครื่องด้านหน้าห้อง EZ Self Studio เพื่อทำการเข้าใช้งานห้องได้ทันที
 
 ![](<../.gitbook/assets/image (215).png>)

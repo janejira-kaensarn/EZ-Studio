@@ -6,7 +6,7 @@
 * [การจัดวางอุปกรณ์ CMU EZ Studio](arrangement.md)
 * [บริการ EZ Series](ez-series/README.md)
   * [ข้อตกลงการใช้งาน EZ Media Self Studio](ez-series/ez-media-self-studio.md)
-  * [การจองใช้งานห้อง EZ Media Self Studio(Beta)](ez-series/ez-media-self-studio-beta.md)
+  * [การจองใช้งานห้อง EZ Self Studio และ EZ Active Classroom](ez-series/ez-self-studio-ez-active-classroom.md)
 
 ## เทคนิคการออกแบบและบันทึกสื่อ <a href="#technics" id="technics"></a>
 
