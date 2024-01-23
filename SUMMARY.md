@@ -5,7 +5,7 @@
 * [การเชื่อมต่ออุปกรณ์ CMU EZ Studio](device-connection.md)
 * [การจัดวางอุปกรณ์ CMU EZ Studio](arrangement.md)
 * [บริการ EZ Series](ez-series/README.md)
-  * [ข้อตกลงการใช้งาน EZ Media Self Studio](ez-series/ez-media-self-studio.md)
+  * [ข้อตกลงการใช้งาน EZ Series](ez-series/ez-series.md)
   * [การจองใช้งานห้อง EZ Self Studio และ EZ Active Classroom](ez-series/ez-self-studio-ez-active-classroom.md)
 
 ## เทคนิคการออกแบบและบันทึกสื่อ <a href="#technics" id="technics"></a>
