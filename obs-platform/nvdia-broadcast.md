@@ -1,6 +1,6 @@
 # NVDIA Broadcast
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 NVDIA Broadcast เป็นโปรแกรมเสริมที่ใช้งานกับ Laptop ในชุดของ EZ Self-Studio ซึ่งมีความสามารถในการตัดเสียงรบกวนจากภายนอกและตัดฉากหลังสีเขียวได้คมชัดและมีประสิทธิภาพด้วยระบบ AI
 
@@ -21,4 +21,4 @@ NVDIA Broadcast เป็นโปรแกรมเสริมที่ใช�
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
