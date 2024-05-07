@@ -1,6 +1,7 @@
 # Table of contents
 
-* [แนะนำชุดอุปกรณ์ CMU EZ Studio](README.md)
+* [คำถามที่พบบ่อย FAQs](README.md)
+* [แนะนำชุดอุปกรณ์ CMU EZ Studio](<README (1).md>)
 * [กลับไปหน้าสารบัญคู่มือ](back-to-index.md)
 * [การเชื่อมต่ออุปกรณ์ CMU EZ Studio](device-connection.md)
 * [การจัดวางอุปกรณ์ CMU EZ Studio](arrangement.md)
@@ -35,10 +36,6 @@
 
 * [ดาวน์โหลดและติดตั้งโปรแกรมสำหรับบันทึกสื่อ](installation/download.md)
 * [การติดตั้งโปรแกรมสำหรับเครื่อง EZ Studio Controller](installation/software.md)
-
-***
-
-* [คำถามที่พบบ่อย FAQs](faqs.md)
 
 ## การใช้งาน OBS ร่วมกับ Platform ต่างๆ
 

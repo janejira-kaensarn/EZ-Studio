@@ -1,147 +1,43 @@
 ---
-description: >-
-  สร้างสื่อในรูปแบบวิดีโอด้วยเครื่องมือง่าย ๆ อย่างมีประสิทธิภาพกับ CMU EZ
-  Studio
+description: รวบรวมคำถามที่พบบ่อย พร้อมคำถามที่นี่
 ---
 
-# แนะนำชุดอุปกรณ์ CMU EZ Studio
+# คำถามที่พบบ่อย FAQs
 
-&#x20;          ศูนย์นวัตกรรมการสอนและการเรียนรู้ ได้ให้บริการผลิตสื่อในรูปแบบ Video Streaming โดยใช้เครื่องมือและซอฟต์แวร์ช่วยในการผลิต ซึ่งในปัจจุบันด้วยความก้าวหน้าทางเทคโนโลยีทำให้คณาจารย์สามารถผลิตสื่อด้วยตนเองได้จากทุกสถานที่ ทางศูนย์นวัตกรรมการสอนและการเรียนรู้ จึงขอนำเสนอชุดอุปกรณ์ที่จะช่วยให้การสร้างสื่อการเรียนการสอนให้เป็นเรื่องง่ายและเป็นสื่อที่มีคุณภาพ&#x20;
+## Q : นักศึกษาสามารถจองใช้งาน EZ Self Studio รวมถึง EZ Active Classroom ได้หรือไม่
 
-![](<.gitbook/assets/image (195) (1).png>)
+A : สามารถจองใช้งานในวัตถุประสงค์ที่เกี่ยวข้องกับชั้นเรียนหรือการศึกษา ในวันและเวลาราชการค่ะ
 
-## :star: แนะนำชุดอุปกรณ์ CMU EZ Studio 2021 (ล่าสุด)
+จองใช้งาน - [https://www.info.tlic.cmu.ac.th/cmu-ez-self-studio](https://www.info.tlic.cmu.ac.th/cmu-ez-self-studio)
 
-{% embed url="https://www.youtube.com/watch?v=V45tFoQCV2Q" %}
-วิดิโอแนะนำชุดอุปกรณ์ CMU EZ Studio 2021
-{% endembed %}
+## Q : อาจารย์หรือเจ้าหน้าที่สามารถจองใช้งานห้องในวันเสาร์-อาทิตย์ หรือวันหยุดราชการได้หรือไม่
 
-## **ภายในชุด CMU** EZ Studio ประกอบด้วยอุปกรณ์ดังนี้
+A : ติดต่อแจ้งเจ้าหน้าที่เพื่อขอจองใช้งานห้องเป็นกรณีพิเศษได้ที่ Line Official : [https://cmu.to/tlic-line](https://cmu.to/tlic-line?fbclid=IwZXh0bgNhZW0CMTAAAR3YCMeuoqK5R64BLiaR51KutyYkqJ3TJVX6tmEqPIWK-xjblOI7iLMZTw4\_aem\_AbpSt5b5l0xIlzj5SQHW8KJXf1ZdVRATu4jAEXslUGjk4HWlKHLxxQgdx18wM79NVKPNWN1h1WvtKK2iWqlqqvxi)
 
-### 1.เครื่องคอมพิวเตอร์ คุณภาพสูง&#x20;
+## Q : หากเครื่องมือในชุดอุปกรณ์เครื่องมีปัญหาทำอย่างไร?
 
-![](<.gitbook/assets/image (45).png>)
+A : ให้แจ้งทางศูนย์นวัตกรรมการสอนและการเรียนรู้ผ่านทาง Line Group : CMU EZ Studio ได้เลย  หรือจากช่องทางการติดต่ออื่นๆของ TLIC หลังจากนั้น TLIC จะดำเนินการประสานงานไปยังบริษัทผู้จัดซื้อชุดอุปกรณ์อีกครั้ง
 
-&#x20;        ในชุดอุปกรณ์ของ CMU EZ Studio นั้น  TLIC เลือกใช้ Computer Notebook ยี่ห้อ **Acer รุ่น Nitro 5** ที่มีคุณภาพสูง สามารถรองรับการใช้งานด้านกราฟฟิกได้เป็นอย่างดี&#x20;
+ทั้งนี้ ท่านไม่จำเป็นต้องเก็บกล่องอุปกรณ์แต่อย่างใด สามารถทิ้งได้
 
-&#x20;         อย่างไรก็ตามท่านสามารถใช้คอมพิวเตอร์ หรือ Laptop คุณภาพสูงที่มี Spec ขั้นต่ำได้ดังนี้
+## Q : สามาถสั่งซื้อ เครื่อง CMU EZ Controller version 3.0 ได้ที่ไหน?
 
-#### **Specification**
+A : ท่านสามารถสั่งซื้อเครื่อง CMU EZ Controller version 3.0 ได้จาก ร้านค้าใน Website Lazada โดยเข้าถึงได้จาก&#x20;
 
-| หัวข้อ    | รายละเอียด                                             |
-| --------- | ------------------------------------------------------ |
-| OS        | Windows 10                                             |
-| Processor | Intel Core i5 10300H                                   |
-| LOD       | 15.6" FHD IPS 144Hz slim bezel LCD                     |
-| Graphic   | NVIDIA GeForce RTX 2060 with 6 GB GDDR6 Dedicated VRAM |
-| Memory    | 16 GB DDR4 2933MHz Memory                              |
-| Storage   | 512 GB PCle NVMe SSD\*                                 |
-| Battery   | 57Wh Li-ion baterry                                    |
+[https://shopee.co.th/EZ-Studio-Controller-3.0-i.67362721.21190600915?sp\_atk=9b62e134-d8cd-4ad9-9c9f-32f0429b035c\&xptdk=9b62e134-d8cd-4ad9-9c9f-32f0429b035c](https://shopee.co.th/EZ-Studio-Controller-3.0-i.67362721.21190600915?sp\_atk=9b62e134-d8cd-4ad9-9c9f-32f0429b035c\&xptdk=9b62e134-d8cd-4ad9-9c9f-32f0429b035c)
 
+## Q : อ่านคู่มือแล้วยังใช้ไม่เป็นสามารถทำอย่างไรได้บ้าง
 
+A : ภายในคู่มือประกอบด้วยคำชี้แจงแบบตัวอักษร รุปภาพและวิดิโอสาธิตการใช้งานเบื้องต้น แต่ในบางกรณีที่ติดขัดปัญหาในบางส่วนหรืออาจารย์ไม่สามารถดำเนินการได้ อาจารย์สามารถติดต่อเจ้าหน้าที่ IT Support ของคณะได้โดยตรง เนื่องจากเจ้าหน้าที่ได้รับการอบรมจากทาง TLIC แล้ว หรือ หากเจ้าหน้าที่ของทางคณะยังไม่สามารถแก้ไขปัญหาให้แก่อาจารย์ได้ อาจารย์สามารถติดต่อมาที่ TLIC ผ่านช่องทาง Line Official Account หรือ Help Center (Jira Service Management)
 
-### 2.กล้อง Webcam และ ขาตั้งกล้อง
+## Q : เครื่อง CMU EZ Controller กดไม่ได้ ไฟไม่พอต้องทำอย่างไร?
 
-![](<.gitbook/assets/image (46).png>)
+A : หากกำลังไฟจากเครื่องคอมพิวเตอร์โน้ตบุคไม่พอสำหรับใช้งานเครื่อง CMU EZ Controller (ไม่สามารถกดหรือใช้งานได้) ท่านสามารถเปลลี่ยน Port โดยเชื่อมต่อตัวเครื่อง CMU EZ Controller เข้ากับตัวเครื่องคอมพิวเตอร์โดยตรง
 
-&#x20;         ในชุดอุปกรณ์ของ CMU EZ Studioนั้น TLIC เลือกใช้กล้องเว็บแคม **Logitech C922 Pro Anchor webcam** ซึ่งเป็นกล้องเว็บแคมที่เป็นที่นิยมและมีความสามารถในการบันทึกภาพที่มีคุณภาพ
+## Q : หากต้องการสั่งซื้อชุด CMU EZ Controller สามารถทำอย่างไรได้บ้าง?
 
-&#x20;          อย่างไรก็ตามท่านสามารถใช้กล้อง webcam ที่มี Spec ขั้นต่ำดังนี้
+A : ขณะนี้ทางศูนย์นวัตกรรมการสอนและการเรียนรู้ ได้ดำเนินการถึงขั้นตอนการแจกจ่ายชุด CMU EZ Studio ให้แก่คณะที่ทำการลงทะเบียนไว้เป็นที่เรียบร้อยแล้ว และยังไม่มีกำหนดการที่จะเปิดรับลงทะเบียนในรอบใหม่แต่อย่างใด หากท่านหรือหน่วยงานของท่านสนใจ สามารถจัดซื้อชุดอุปกรณ์ต่างๆได้เอง
 
-#### **Specification**
+## Q : หากต้องการให้ทาง TLIC อบรมการใช้งาน CMU EZ Studio สามารถทำได้ไหม?
 
-| หัวข้อ                     | รายละเอียด                     |
-| -------------------------- | ------------------------------ |
-| Video playback & recording | 1080p30fps/720p60fps/720p30fps |
-| Video Call                 | 1080P Full HD                  |
-| Focus on                   | auto focus                     |
-| Microphone                 | stereo                         |
-| Background delete          | yes                            |
-| tripod                     | yes                            |
-| H.264 coding               | yes                            |
-
-{% content-ref url="manual/webcam.md" %}
-[webcam.md](manual/webcam.md)
-{% endcontent-ref %}
-
-
-
-### 3.ไมโครโฟน และ ขาตั้งไมโครโฟน
-
-![](<.gitbook/assets/image (47).png>)
-
-&#x20;         ในชุดอุปกรณ์ของ CMU EZ Studio นั้น TLIC เลือกใช้ไมโครโฟน **Samson Meteor Mic USB Studio Condenser Microphone** ที่มีความสามารถในการบันทึกเสียงและปรับความถี่เสียงเพื่อคุณภาพที่ดีของเสียง ใช้งานง่ายและ ติดตั้งง่าย&#x20;
-
-&#x20;         อย่างไรก็ตามท่านสามารถใช้ไมโครโฟน ที่มี Spec ขั้นต่ำดังนี้&#x20;
-
-#### **Specification**
-
-| หัวข้อ                   | รายละเอียด                |
-| ------------------------ | ------------------------- |
-| Sound Field              | Mono                      |
-| Transducer               | Condenser                 |
-| Frequency Range          | 20 Hz to 20 kHz           |
-| Signal to Noise Ratio    | 96 dB                     |
-| Maximum SPL              | 120 dB SPL RMS            |
-| Bit Depth                | 16-Bit                    |
-| Sample Rate              | <p>44.1 kHz<br>48 kHz</p> |
-| Operating System Support | Windows, macOS/OS X       |
-
-{% content-ref url="manual/microphone.md" %}
-[microphone.md](manual/microphone.md)
-{% endcontent-ref %}
-
-
-
-### 4.แสงไฟ Ring Light LED
-
-![](.gitbook/assets/4.png)
-
-&#x20;           ในชุดอุปกรณ์ของ CMU EZ Studio นั้น TLIC เลือกใช้ **LD-500 Portable Ring Light (รุ่นใหม่)** และ **Ring Light LED CY-R50L (รุ่นเก่า)** ซึ่งเป็นอุปกรณ์ที่ให้ความสว่างได้ค่อนข้างมาก&#x20;
-
-&#x20;            อย่างไรก็ตามท่านสามารถใช้แสงไฟ Ring Light ที่มี Spec ขั้นต่ำดังนี้&#x20;
-
-#### **Specification**
-
-| หัวข้อ      | รายละเอียด     |
-| ----------- | -------------- |
-| Voltage     | 90-260V        |
-| Power       | 50W            |
-| Temperature | 3200-5500K     |
-| Diameter    | 45cm / 18in    |
-| Item Weight | 1.9kg / 4.2lb  |
-| PLumens     | 6500LUX        |
-| Flash Index | RA≥90 External |
-
-{% content-ref url="manual/ring-light/" %}
-[ring-light](manual/ring-light/)
-{% endcontent-ref %}
-
-
-
-### 5.เครื่อง EZ Studio Controller&#x20;
-
-![](<.gitbook/assets/image (53).png>)
-
-เครื่อง EZ Studio Controller  Version 3.0 ซึ่งเป็นเวอร์ชันล่าสุดในขณะนี้ ท่านสามารถใช้งานได้ทันทีเพียงเชื่อมต่อเข้ากับคอมพิวเตอร์หรือ Laptop โดยไม่ต้องทำการลงโปรแกรมเหมือนกับ Version 1.0 และ 2.0
-
-{% content-ref url="manual/ez-studio-controller/" %}
-[ez-studio-controller](manual/ez-studio-controller/)
-{% endcontent-ref %}
-
-
-
-### 6.หน้าจอแสดงผล
-
-![](<.gitbook/assets/image (70).png>)
-
-เพื่อแสดงผลการถ่ายทำสื่อการเรียนการสอน โดยหน้าจอแสดงผลนี้สามารถใช้จอคอมพิวเตอร์ จอ TV หรือจออื่นๆที่ท่านมีอยู่แล้วได้ โดยทำการเชื่อมต่อกับเครืองคอมพิวเตอร์ของท่าน
-
-## อุปกรณ์เสริม (ไม่ได้รวมอยู่ในชุดอุปกรณ์ CMU EZ STUDIO)
-
-### 7.Green Screen&#x20;
-
-![](<.gitbook/assets/Elegant Company Profile Presentation (1).png>)
-
-ใช้สำหรับการซ้อนภาพผู้บรรยายบนสื่อที่ต้องการ การเปลี่ยนพื้นหลังเป็นสถานที่ต่างๆ หรือ เปลี่ยนพื้นหลังเป็นสื่อการสอน โดยสามารถใช้แบบสำเร็จรูป หรือประยุกต์ใช้จากผ้าสีเขียว และ กระดาษสีเขียวแทนได้&#x20;
-
+A : สามารถทำได้ โดยแจ้งความประสงค์ได้ที่ Line Official Account หรือ ส่งหนังสือแจ้งรายละเอียดความต้องการของท่านเพื่อที่ทาง TLIC จะได้เตรียมเนื้อหาและจัดสรรเจ้าหน้าที่ในการอบรมตามความเหมาะสม
