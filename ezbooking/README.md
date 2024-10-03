@@ -1,4 +1,8 @@
-# แนะนำห้อง EZ Rooms
+---
+icon: star
+---
+
+# แนะนำ EZ Series
 
 ## EZ Self Studio
 

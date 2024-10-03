@@ -2,22 +2,19 @@
 
 * [คำถามที่พบบ่อย FAQs](README.md)
 * [กลับไปยังสารบัญคู่มือ](https://docs.tlic.cmu.ac.th/index)
+* [แนะนำ EZ Series](ezbooking/README.md)
+  * [แนะนำชุดอุปกรณ์ CMU EZ Studio](ezbooking/home.md)
+  * [การเชื่อมต่ออุปกรณ์ CMU EZ Studio](ezbooking/device-connection.md)
+  * [การจัดวางอุปกรณ์ CMU EZ Studio](ezbooking/arrangement.md)
 
 ## การจองใช้งานห้อง EZ Rooms  <a href="#booking" id="booking"></a>
 
-* [แนะนำ EZ Series](booking/ezbooking.md)
 * [ข้อตกลงการใช้งานห้อง EZ](booking/agreement.md)
 * [การจองใช้งานห้อง EZ Self Studio และ EZ Active Classroom](booking/ez-self-studio-ez-active-classroom/README.md)
   * [การแก้ไขเวลาในการจองใช้งาน](booking/ez-self-studio-ez-active-classroom/undefined.md)
   * [ยกเลิกการจองใช้งาน](booking/ez-self-studio-ez-active-classroom/undefined-1.md)
   * [ตรวจสอบการจอง](booking/ez-self-studio-ez-active-classroom/undefined-2.md)
 * [การเข้าใช้งานห้อง หลังจองเรียบร้อยแล้ว](booking/undefined.md)
-
-***
-
-* [แนะนำชุดอุปกรณ์ CMU EZ Studio](<README (1).md>)
-  * [การเชื่อมต่ออุปกรณ์ CMU EZ Studio](device-connection.md)
-  * [การจัดวางอุปกรณ์ CMU EZ Studio](arrangement.md)
 
 ## คู่มือการใช้งานชุดอุปกรณ์ CMU EZ Studio <a href="#manual" id="manual"></a>
 
