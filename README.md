@@ -1,5 +1,6 @@
 ---
 description: รวบรวมคำถามที่พบบ่อย พร้อมคำถามที่นี่
+icon: circle-question
 ---
 
 # คำถามที่พบบ่อย FAQs

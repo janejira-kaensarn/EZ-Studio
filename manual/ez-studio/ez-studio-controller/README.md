@@ -6,7 +6,7 @@ description: >-
 
 # คู่มือการใช้เครื่อง CMU EZ Studio Controller
 
-![](<../../.gitbook/assets/1 (1).png>)
+![](<../../../.gitbook/assets/1 (1).png>)
 
 เครื่อง **CMU EZ Studio Controller** เป็นอุปกรณ์ที่ช่วยอำนวยความสะดวกในการควบคุมและเปลี่ยนแปลงหน้าจอการทำงานเพียงกดปุ่มแหล่งสัญญาณที่ได้ตั้งค่าไว้เท่านั้น โดยไม่ต้องทำการตัดต่อ&#x20;
 
@@ -14,7 +14,7 @@ description: >-
 
 ## รายละเอียดส่วนต่างๆ ของเครื่อง **EZ Controller (Version 3.0)**
 
-![](<../../.gitbook/assets/image (40).png>)
+![](<../../../.gitbook/assets/image (40).png>)
 
 **คุณสมบัติของ EZ-Controller (Version 3.0)**
 

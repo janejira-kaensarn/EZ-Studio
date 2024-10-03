@@ -1,4 +1,8 @@
-# บริการ EZ Series
+---
+icon: calendar-check
+---
+
+# การจองใช้งาน EZ Rooms
 
 ## EZ Self Studio
 
