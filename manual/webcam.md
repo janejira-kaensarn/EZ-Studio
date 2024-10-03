@@ -6,11 +6,11 @@ description: วิธีการใช้งาน กล้อง Webcam Logi
 
 ## รายละเอียดส่วนต่างๆของกล้อง Webcam (Logitech C922 PRO HD)
 
-![](<../../.gitbook/assets/image (46).png>)
+![](<../.gitbook/assets/image (46).png>)
 
-![](<../../.gitbook/assets/image (55).png>)
+![](<../.gitbook/assets/image (55).png>)
 
-![](<../../.gitbook/assets/image (56).png>)
+![](<../.gitbook/assets/image (56).png>)
 
 ## **มีอุปกรณ์อะไรอยู่ในกล่องบ้าง?**
 
@@ -50,16 +50,16 @@ description: วิธีการใช้งาน กล้อง Webcam Logi
 
 
 
-![](<../../.gitbook/assets/image (62).png>)
+![](<../.gitbook/assets/image (62).png>)
 
 ## **การเชื่อมต่อเว็บแคมผ่าน USB-A**
 
 เสียบขั้วต่อ USB-A เข้ากับพอร์ต USB-A บนคอมพิวเตอร์ของคุณ
 
-![](<../../.gitbook/assets/image (59).png>)
+![](<../.gitbook/assets/image (59).png>)
 
 ## **การเชื่อมต่อที่ประสบความสำเร็จ**
 
 ไฟ LED แสดงการทำงานจะสว่างขึ้นเมื่อมีการใช้เว็บแคมโดยผ่านแอปพลิเคชัน
 
-![](<../../.gitbook/assets/image (61).png>)
+![](<../.gitbook/assets/image (61).png>)

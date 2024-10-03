@@ -8,7 +8,7 @@ description: >-
 
 ## รายละเอียดส่วนต่างๆ ของเครื่อง CMU EZ Studio Controller **(Version 3.0)**
 
-![](<../../../.gitbook/assets/image (40).png>)
+![](<../../.gitbook/assets/image (40).png>)
 
 **คุณสมบัติของ CMU EZ Studio Controller  (Version 3.0)**
 

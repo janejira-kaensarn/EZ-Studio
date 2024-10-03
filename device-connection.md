@@ -12,7 +12,7 @@ description: >-
 
 ![ผังการต่ออุปกรณ์ชุด CMU EZ Studio](https://gblobscdn.gitbook.com/assets%2F-MacQbJEhin4rokH3Cup%2F-MacQdHydu3jG3VkxbdZ%2F-MacR4q8EDNT64MSz7aW%2Fimage.png?alt=media\&token=39f89433-f6cd-47d2-8e16-ab91cd5cb67e)
 
-## แนะนำการเชื่อมต่ออุปกรณ์ USB กับ Computer <a href="usb" id="usb"></a>
+## แนะนำการเชื่อมต่ออุปกรณ์ USB กับ Computer <a href="#usb" id="usb"></a>
 
 &#x20;         เนื่องจากช่องเสียบ USB (แบบ Type A) บนคอมพิวเตอร์นั้นมีจำนวนจำกัดเพียง 3 ช่องเท่านั้น แต่อุปกรณ์ USB ในชุด CMU EZ Studio มี 4 ชิ้น ดังนั้นจึงจำเป็นต้องใช้ USB Hub (รวมอยู่ในชุด) เข้ามาช่วยขยายช่องเสียบ ซึ่ง TLIC แนะนำให้เลือกเชื่อมต่ออุปกรณ์ดังนี้
 

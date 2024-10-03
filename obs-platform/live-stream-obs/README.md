@@ -19,12 +19,12 @@
 
 2.สามารถแบ่ง Scene ให้แสดง content หรือหน้าจอที่ต้องการได้ ซึ่งสามารถจัดเตรียมส่วนนี้ไว้ล่วงหน้าได้
 
-![](<../.gitbook/assets/image (196).png>)
+![](<../../.gitbook/assets/image (196).png>)
 
 3.มี Studio Mode แบ่งส่วนตัวอย่างก่อนการออกอากาศจริง(ซ้าย)และส่วนที่กำลังถ่ายทอดสดอยู่ใน Platform อื่น(ขวา)
 
-![](<../.gitbook/assets/image (206) (1).png>)
+![](<../../.gitbook/assets/image (206) (1).png>)
 
 4.รองรับการ Streaming ในหลากหลาย Platform
 
-![](<../.gitbook/assets/image (207) (1) (1).png>)
+![](<../../.gitbook/assets/image (207) (1) (1).png>)

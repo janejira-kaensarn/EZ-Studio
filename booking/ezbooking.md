@@ -1,8 +1,4 @@
----
-icon: calendar-check
----
-
-# การจองใช้งาน EZ Rooms
+# แนะนำห้อง EZ Rooms
 
 ## EZ Self Studio
 

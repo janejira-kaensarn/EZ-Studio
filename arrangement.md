@@ -50,8 +50,8 @@ description: >-
 
 &#x20;         การจัดวางตำแหน่งอุปกรณ์ที่เหมาะสม และ **จัดองค์ประกอบสำคัญของภาพที่ดี** จะช่วยให้สื่อที่ผลิตนั้นออกมามีคุณภาพ น่าสนใจ และมีความเป็นมืออาชีพมากยิ่งขึ้น ท่านสามารถศึกษาเพิ่มเติมได้จากหัวข้อด้านล่าง
 
-{% content-ref url="../technics/composition.md" %}
-[composition.md](../technics/composition.md)
+{% content-ref url="technics/composition.md" %}
+[composition.md](technics/composition.md)
 {% endcontent-ref %}
 
 ## :star: แนะนำการติดตั้งและการจัดวางตำแหน่งอุปกรณ์ CMU EZ Studio & เทคนิคการจัดองค์ประกอบภาพ

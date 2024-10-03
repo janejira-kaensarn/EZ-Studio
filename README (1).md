@@ -9,7 +9,7 @@ icon: star
 
 &#x20;          ศูนย์นวัตกรรมการสอนและการเรียนรู้ ได้ให้บริการผลิตสื่อในรูปแบบ Video Streaming โดยใช้เครื่องมือและซอฟต์แวร์ช่วยในการผลิต ซึ่งในปัจจุบันด้วยความก้าวหน้าทางเทคโนโลยีทำให้คณาจารย์สามารถผลิตสื่อด้วยตนเองได้จากทุกสถานที่ ทางศูนย์นวัตกรรมการสอนและการเรียนรู้ จึงขอนำเสนอชุดอุปกรณ์ที่จะช่วยให้การสร้างสื่อการเรียนการสอนให้เป็นเรื่องง่ายและเป็นสื่อที่มีคุณภาพ&#x20;
 
-![](<../.gitbook/assets/image (195) (1).png>)
+![](<.gitbook/assets/image (195) (1).png>)
 
 ## :star: แนะนำชุดอุปกรณ์ CMU EZ Studio 2021 (ล่าสุด)
 
@@ -21,7 +21,7 @@ icon: star
 
 ### 1.เครื่องคอมพิวเตอร์ คุณภาพสูง&#x20;
 
-![](<../.gitbook/assets/image (45).png>)
+![](<.gitbook/assets/image (45).png>)
 
 &#x20;        ในชุดอุปกรณ์ของ CMU EZ Studio นั้น  TLIC เลือกใช้ Computer Notebook ยี่ห้อ **Acer รุ่น Nitro 5** ที่มีคุณภาพสูง สามารถรองรับการใช้งานด้านกราฟฟิกได้เป็นอย่างดี&#x20;
 
@@ -43,7 +43,7 @@ icon: star
 
 ### 2.กล้อง Webcam และ ขาตั้งกล้อง
 
-![](<../.gitbook/assets/image (46).png>)
+![](<.gitbook/assets/image (46).png>)
 
 &#x20;         ในชุดอุปกรณ์ของ CMU EZ Studioนั้น TLIC เลือกใช้กล้องเว็บแคม **Logitech C922 Pro Anchor webcam** ซึ่งเป็นกล้องเว็บแคมที่เป็นที่นิยมและมีความสามารถในการบันทึกภาพที่มีคุณภาพ
 
@@ -61,15 +61,15 @@ icon: star
 | tripod                     | yes                            |
 | H.264 coding               | yes                            |
 
-{% content-ref url="../manual/ez-studio/webcam.md" %}
-[webcam.md](../manual/ez-studio/webcam.md)
+{% content-ref url="manual/webcam.md" %}
+[webcam.md](manual/webcam.md)
 {% endcontent-ref %}
 
 
 
 ### 3.ไมโครโฟน และ ขาตั้งไมโครโฟน
 
-![](<../.gitbook/assets/image (47).png>)
+![](<.gitbook/assets/image (47).png>)
 
 &#x20;         ในชุดอุปกรณ์ของ CMU EZ Studio นั้น TLIC เลือกใช้ไมโครโฟน **Samson Meteor Mic USB Studio Condenser Microphone** ที่มีความสามารถในการบันทึกเสียงและปรับความถี่เสียงเพื่อคุณภาพที่ดีของเสียง ใช้งานง่ายและ ติดตั้งง่าย&#x20;
 
@@ -88,15 +88,15 @@ icon: star
 | Sample Rate              | <p>44.1 kHz<br>48 kHz</p> |
 | Operating System Support | Windows, macOS/OS X       |
 
-{% content-ref url="../manual/ez-studio/microphone.md" %}
-[microphone.md](../manual/ez-studio/microphone.md)
+{% content-ref url="manual/microphone.md" %}
+[microphone.md](manual/microphone.md)
 {% endcontent-ref %}
 
 
 
 ### 4.แสงไฟ Ring Light LED
 
-![](../.gitbook/assets/4.png)
+![](.gitbook/assets/4.png)
 
 &#x20;           ในชุดอุปกรณ์ของ CMU EZ Studio นั้น TLIC เลือกใช้ **LD-500 Portable Ring Light (รุ่นใหม่)** และ **Ring Light LED CY-R50L (รุ่นเก่า)** ซึ่งเป็นอุปกรณ์ที่ให้ความสว่างได้ค่อนข้างมาก&#x20;
 
@@ -114,27 +114,27 @@ icon: star
 | PLumens     | 6500LUX        |
 | Flash Index | RA≥90 External |
 
-{% content-ref url="../manual/ez-studio/ring-light/" %}
-[ring-light](../manual/ez-studio/ring-light/)
+{% content-ref url="manual/ring-light/" %}
+[ring-light](manual/ring-light/)
 {% endcontent-ref %}
 
 
 
 ### 5.เครื่อง EZ Studio Controller&#x20;
 
-![](<../.gitbook/assets/image (53).png>)
+![](<.gitbook/assets/image (53).png>)
 
 เครื่อง EZ Studio Controller  Version 3.0 ซึ่งเป็นเวอร์ชันล่าสุดในขณะนี้ ท่านสามารถใช้งานได้ทันทีเพียงเชื่อมต่อเข้ากับคอมพิวเตอร์หรือ Laptop โดยไม่ต้องทำการลงโปรแกรมเหมือนกับ Version 1.0 และ 2.0
 
-{% content-ref url="../manual/ez-studio/ez-studio-controller/" %}
-[ez-studio-controller](../manual/ez-studio/ez-studio-controller/)
+{% content-ref url="manual/ez-studio-controller/" %}
+[ez-studio-controller](manual/ez-studio-controller/)
 {% endcontent-ref %}
 
 
 
 ### 6.หน้าจอแสดงผล
 
-![](<../.gitbook/assets/image (70).png>)
+![](<.gitbook/assets/image (70).png>)
 
 เพื่อแสดงผลการถ่ายทำสื่อการเรียนการสอน โดยหน้าจอแสดงผลนี้สามารถใช้จอคอมพิวเตอร์ จอ TV หรือจออื่นๆที่ท่านมีอยู่แล้วได้ โดยทำการเชื่อมต่อกับเครืองคอมพิวเตอร์ของท่าน
 
@@ -142,7 +142,7 @@ icon: star
 
 ### 7.Green Screen&#x20;
 
-![](<../.gitbook/assets/Elegant Company Profile Presentation (1).png>)
+![](<.gitbook/assets/Elegant Company Profile Presentation (1).png>)
 
 ใช้สำหรับการซ้อนภาพผู้บรรยายบนสื่อที่ต้องการ การเปลี่ยนพื้นหลังเป็นสถานที่ต่างๆ หรือ เปลี่ยนพื้นหลังเป็นสื่อการสอน โดยสามารถใช้แบบสำเร็จรูป หรือประยุกต์ใช้จากผ้าสีเขียว และ กระดาษสีเขียวแทนได้&#x20;
 
