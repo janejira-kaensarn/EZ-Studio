@@ -5,7 +5,7 @@
 
 ## การจองใช้งานห้อง EZ Rooms  <a href="#booking" id="booking"></a>
 
-* [แนะนำห้อง EZ Rooms](booking/ezbooking.md)
+* [แนะนำ EZ Series](booking/ezbooking.md)
 * [ข้อตกลงการใช้งานห้อง EZ](booking/agreement.md)
 * [การจองใช้งานห้อง EZ Self Studio และ EZ Active Classroom](booking/ez-self-studio-ez-active-classroom/README.md)
   * [การแก้ไขเวลาในการจองใช้งาน](booking/ez-self-studio-ez-active-classroom/undefined.md)
